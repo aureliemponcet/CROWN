@@ -70,5 +70,6 @@ def import_codes(codes_list):
 
 # ----- Update Postgresql database -----
 
+# execute function to complete the code table
 import_codes(codes_list2)
      
