@@ -4,10 +4,14 @@
 # ----- Preliminary Coding -----
 
 # import required packages
-
 import os  # to define work directory
 import psycopg2 # import required module to connect to postgresql database
 import csv
+
+# import configuration file
+import sys
+sys.path.insert(0, '/Users/amponcet/Desktop')
+import configuration
 
 # set work directory
 os.chdir("/Users/amponcet/Documents/GitHub/CROWN/Data_Flow_Team/SQL_Database/Data_Import/Structural_Inputs/treatments") 
@@ -32,7 +36,6 @@ for item in range(0,len(treatments_list2)):
     treatments_list2[item] = (str(treatments_list2[item])[2],)
     
 
-
 # ----- Define function to update Postgresql database -----
             
 
@@ -41,12 +44,14 @@ def import_treatments(treatments_list):
 
     sql = "INSERT INTO treatments(treatment) VALUES(%s)" 
     conn = None
-    
     try:
-    
-        # connect to the PostgreSQL database
-        conn = psycopg2.connect(host="localhost", port = "5432", dbname="CROWN_FieldData",  user="admin", password="CROWNadmin18-22")
 
+        # read database configuration
+        params = configuration.config()
+        
+        # connect to the PostgreSQL database
+        conn = psycopg2.connect(**params)
+        
         # create a new cursor
         cur = conn.cursor()
         

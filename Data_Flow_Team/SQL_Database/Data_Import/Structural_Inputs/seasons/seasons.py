@@ -1,13 +1,17 @@
 # -*- coding: utf-8 -*-
-""" The objective of this script is to import all states 2-letter code into the CROWN postgresql database. """
+""" The objective of this script is to import all seasons into the CROWN postgresql database. """
 
 # ----- Preliminary Coding -----
 
-# import required packages
-
+# import required packages\
 import os  # to define work directory
 import psycopg2 # import required module to connect to postgresql database
 import csv
+
+# import configuration file
+import sys
+sys.path.insert(0, '/Users/amponcet/Desktop')
+import configuration
 
 # set work directory
 os.chdir("/Users/amponcet/Documents/GitHub/CROWN/Data_Flow_Team/SQL_Database/Data_Import/Structural_Inputs/seasons") 
@@ -44,8 +48,11 @@ def import_seasons(seasons_list):
     
     try:
     
+        # read database configuration
+        params = configuration.config()
+        
         # connect to the PostgreSQL database
-        conn = psycopg2.connect(host="localhost", port = "5432", dbname="CROWN_FieldData",  user="admin", password="CROWNadmin18-22")
+        conn = psycopg2.connect(**params)
 
         # create a new cursor
         cur = conn.cursor()
