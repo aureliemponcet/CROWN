@@ -1,4 +1,22 @@
-﻿cc_family
-Legumes
-Grasses
-Brassicas
+﻿cc_specie,cc_family
+Annual Ryegrass,Grasses
+Sudan grass,Grasses
+Rape/Canola,Broadleaves
+Cereal Rye,Grasses
+Winter Rye,Grasses
+Weat,Grasses
+Triticale,Grasses
+Oats,Grasses
+Crimson Clover,Legumes
+Red Clover,Legumes
+White Clover,Legumes
+Unknown Clover spp,Legumes
+Hairy Vetch,Legumes
+Woolypod Vetch,Legumes
+Crown Vetch,Legumes
+Unknown Vetch spp,Legumes
+Radish/Turnip,Broadleaves
+Mustard,Broadleaves
+Winter Peas,Legumes
+Alfalfa,Legumes
+Other,

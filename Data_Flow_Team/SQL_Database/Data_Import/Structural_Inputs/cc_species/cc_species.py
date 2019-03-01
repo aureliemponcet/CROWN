@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" The objective of this script is to import cover crop families into the CROWN postgresql database. """
+""" The objective of this script is to import cover crop species into the CROWN postgresql database. """
 
 # ----- Preliminary Coding -----
 
@@ -14,14 +14,14 @@ sys.path.insert(0, '/Users/amponcet/Desktop')
 import configuration
 
 # set work directory
-os.chdir("/Users/amponcet/Documents/GitHub/CROWN/Data_Flow_Team/SQL_Database/Data_Import/Structural_Inputs/cc_families") 
+os.chdir("/Users/amponcet/Documents/GitHub/CROWN/Data_Flow_Team/SQL_Database/Data_Import/Structural_Inputs/cc_species") 
 print(os.getcwd()) # print current work directory
 
 
 # ----- Import Data from csv file -----
 
 # import data from csv file
-with open('cc_families.csv', newline='') as csvfile:
+with open('cc_species.csv', newline='') as csvfile:
      families = csv.reader(csvfile, delimiter=' ', quotechar='|')
      families_list = list(families)
      
