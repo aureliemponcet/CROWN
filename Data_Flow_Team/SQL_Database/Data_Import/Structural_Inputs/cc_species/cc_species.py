@@ -8,6 +8,7 @@ import os  # to define work directory
 import psycopg2 # import required module to connect to postgresql database
 import csv
 
+
 # import configuration file
 import sys
 sys.path.insert(0, '/Users/amponcet/Desktop')
@@ -22,27 +23,32 @@ print(os.getcwd()) # print current work directory
 
 # import data from csv file
 with open('cc_species.csv', newline='') as csvfile:
-     families = csv.reader(csvfile, delimiter=' ', quotechar='|')
-     families_list = list(families)
-     
+     species = csv.reader(csvfile, delimiter=',', quotechar='|')
+     species_list = list(species)
+
+
 # remove first observation in list (column name)
-families_list = families_list[1:(len(families_list)+1)] 
-print(len(families_list)) 
+species_list = species_list[1:(len(species_list)+1)] 
+print(len(species_list)) 
 
 # format codes values
-families_list2 = families_list
+species_list2 = species_list
 
-for item in range(0,len(families_list2)):
-    families_list2[item] = (str(families_list2[item])[2:(len(str(families_list2[item]))-2)],)
+
+for item in range(0,len(species_list2)):
+    for col in range(0, len(species_list2[item])):
+        species_list2[item][col] = (species_list2[item][col],)
+        
+# species_list2[item] = (str(species_list2[item])[2:(len(str(species_list2[item]))-2)],)
     
 
 # ----- Define function to update Postgresql database -----
             
 
 # define function to insert all possible unique 3-letter codes into the CROWN database "codes" table
-def import_cc_families(families_list):
+def import_cc_species(species_list):
 
-    sql = "INSERT INTO cc_families(cc_family) VALUES(%s)" 
+    sql = "INSERT INTO cc_species(cc_specie, cc_family) VALUES(%s,%s)" 
     conn = None
     try:
 
@@ -56,7 +62,7 @@ def import_cc_families(families_list):
         cur = conn.cursor()
         
         # execute the INSERT statement
-        cur.executemany(sql,families_list)
+        cur.executemany(sql,species_list)
         
         # commit the changes to the database
         conn.commit()
@@ -76,5 +82,5 @@ def import_cc_families(families_list):
 # ----- Update Postgresql database -----
 
 # execute function to complete the code table
-import_cc_families(families_list2)
+import_cc_species(species_list2)
      
