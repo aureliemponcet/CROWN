@@ -1,0 +1,28 @@
+INFO:root:TABLE: site_information
+INFO:root:TIMESTAMP: 2019-03-07_08:35:45
+INFO:googleapiclient.discovery:URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s/values/START_Sites%21A2%3AK?alt=json
+INFO:root:MODIFIED INTO DB:['Column = phone old value =            new value = ']
+INFO:root:MODIFIED INTO DB:['Column = longitude old value = -87.2822 new value = -87.2823']
+INFO:root:MODIFIED INTO DB:['Column = phone old value =            new value = ']
+INFO:root:MODIFIED INTO DB:['Column = phone old value =            new value = ']
+INFO:root:TABLE: site_information
+INFO:root:TIMESTAMP: 2019-03-07_08:36:27
+INFO:googleapiclient.discovery:URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s/values/START_Sites%21A2%3AK?alt=json
+INFO:root:MODIFIED INTO DB:['Column = phone old value =            new value = ']
+INFO:root:MODIFIED INTO DB:['Column = longitude old value = -87.2822 new value = -87.2823']
+INFO:root:MODIFIED INTO DB:['Column = phone old value =            new value = ']
+INFO:root:MODIFIED INTO DB:['Column = phone old value =            new value = ']
+INFO:root:TABLE: site_information
+INFO:root:TIMESTAMP: 2019-03-07_09:39:58
+INFO:googleapiclient.discovery:URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s/values/START_Sites%21A2%3AK?alt=json
+INFO:root:TABLE: site_information
+INFO:root:TIMESTAMP: 2019-03-07_09:40:47
+INFO:googleapiclient.discovery:URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s/values/START_Sites%21A2%3AK?alt=json
+INFO:root:TABLE: site_information
+INFO:root:TIMESTAMP: 2019-03-07_09:42:04
+INFO:googleapiclient.discovery:URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s/values/START_Sites%21A2%3AK?alt=json
+INFO:root:MODIFIED INTO DB:['Column = state old value = None new value = NC']
+INFO:root:MODIFIED INTO DB:['Column = phone old value =            new value = ']
+INFO:root:MODIFIED INTO DB:['Column = longitude old value = -87.2822 new value = -87.2823']
+INFO:root:MODIFIED INTO DB:['Column = phone old value =            new value = ']
+INFO:root:MODIFIED INTO DB:['Column = phone old value =            new value = ']

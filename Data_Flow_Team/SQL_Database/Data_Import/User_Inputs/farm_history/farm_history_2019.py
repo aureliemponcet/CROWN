@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" This script import site information into the CROWN postgresql database. """
+""" This script import farm history  into the CROWN postgresql database. """
 
 # ----- Preliminary Coding -----
 
@@ -16,17 +16,17 @@ import read_googlesheet as rgsheet # to read google spreadsheet
 import check_add_update_db as db # to check, add, and update data in postgresql database
 
 
-# define function to import 2019 site information data into database.
-def import_site_information(filename):
+# define function to import 2019 farm history data into database.
+def import_farm_history(filename):
     
     # add table name and timestamp to log file
-    logging.info('TABLE: ' + 'site_information')
+    logging.info('TABLE: ' + 'farm_history')
     logging.info('TIMESTAMP: ' + str(datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d_%H:%M:%S')))
     
 
     # define variables to imnport data from google spreadsheet
     SPREADSHEET_ID = '1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s'
-    RANGE_NAME = 'START_Sites!A2:K'
+    RANGE_NAME = 'FieldHist_CC_Crop_N!A2:AO'
     
     
     # ----- Read Data from Google Sheet ----
@@ -44,10 +44,33 @@ def import_site_information(filename):
     # ----- Update Database ----
     
     for obs in range(0, len(df[1])): # begin iteration over rows
-        if len(df[1][obs]) > 1: # make sure 3-letter code was attributed to a farm.
-            
-            while len(df[1][obs]) < 11: # complete list if missing data at the end
-                df[1][obs].extend([None])
+        
+       while len(df[1][obs]) < 42: # complete list if missing data at the end
+           df[1][obs].extend([None])
+           
+           # list data in proper format for import in database
+#           list_data = [df[1][obs][i] for i in [0,17,18,1,26,27,19,28,20,21,2,22,16,29,35,30,31,32,33,34]]
+#           list_data.extend([None])
+#           list_data.extend([df[1][obs][i] for i in [36,37,38]])
+#           list_data.extend([None])
+#           list_data,extend([df[1][obs][i] for i in [39,40,41]])
+#           
+           
+           list_data = [df[0][i] for i in [0,17,18,1,25,26,19,27,]]
+           list_data.extend([None])
+           list_data.extend([df[0][i] for i in [36,37,38]])
+           list_data.extend([None])
+           list_data.extend([df[0][i] for i in [39,40,41]])
+        
+           
+           
+           
+        
+        
+        
+        
+        
+
            
             # list data in proper format for import in database
             list_data = [df[1][obs][i] for i in [0,1,2,7,3,4]]
@@ -62,7 +85,7 @@ def import_site_information(filename):
             
             list_data.extend([df[1][obs][i] for i in [9,10]]) # add notes and additional_contact information
             
-                                        
+                            
             # format data for upload into postgresql
             for item in range(0, len(list_data)): # begin iteration over list elements
                 if str(list_data[item]) != 'None': # if value is not missing
@@ -72,19 +95,8 @@ def import_site_information(filename):
             
             # Select observation 3-letter farm code
             code_value = df[1][obs][0]
-            
-           
-            # make sure state was formatted properly
-            state = df[1][obs][2]
-            sql_state = "SELECT * FROM states WHERE state = '" + state + "'"
-            check_state = str(db.check_data_in_db(sql_state, state)[0])
-            state = str(list_data[2])
-            
-            if check_state != state: # if state was not entered properly
-                list_data[2] = (None,)
-                logging.error('Site: ' + str(code_value) + ' State was not entered properly')
-                
-       
+         
+        
             # Check if data already in database
             sql_exist = "SELECT * FROM site_information WHERE code = '" + code_value + "'"
             check_summary = db.check_data_in_db(sql_exist, code_value)
