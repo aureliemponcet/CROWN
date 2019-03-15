@@ -16,12 +16,12 @@ MainFunction <- function(){ # begin MainFunction()
 
   # ----- Import Structural Inputs -----
 
-  # ImportCodes() # codes
-  # ImportCashCrops() # cash_crops
-  # ImportCCFamilies() # cc_families
-  # ImportCCPlantingMethods() # cc_planting_methods
-  # ImportCCTerminationMethods() # cc_planting_methods
-  # ImportCCSpecies() # cc_planting_methods
+  # ImportCodes()
+  # ImportCashCrops()
+  # ImportCCFamilies()
+  # ImportCCPlantingMethods()
+  # ImportCCTerminationMethods()
+  # ImportCCSpecies()
   # ImportDepths()
   # ImportRows()
   # ImportSeasons()
@@ -32,7 +32,9 @@ MainFunction <- function(){ # begin MainFunction()
   # ImportTexturalClasses()
   # ImportTimes()
   # ImportTreatments()
-  ImportTypes()
+  # ImportTypes()
+  # ImportChemicalFamilies()
+  ImportChemicalNames()
 
 
 

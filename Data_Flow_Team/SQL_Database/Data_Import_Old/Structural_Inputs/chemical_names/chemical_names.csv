@@ -1,17 +1,16 @@
-﻿chemical,family,,,Pre-Emergence
-2 4-D,Targeted Post-Emergence,,,Non-Specific Post-Emergence
-Atrazine,,,,Targeted Post-Emergence
-Clopyralid,,,,
-Dicamba,Targeted Post-Emergence,,,
-Glyphosate/Roundup,Non-Specific Post-Emergence,,,
-Imazapyr,,,,
-Metolachlor,,,,
-Dual/Lasso,,,,
-Paraquat/Gramoxone,,,,
-Rimsulfuron/LeadOff,,,,
-Prowl,,,,
-Liberty,,,,
-Pursuit,,,,
-Basagran,,,,
-Treflan,,,,
-Other,,,,
+﻿chemical,chemical_family
+2 4-D,Selective
+Atrazine,Selective
+Clopyralid,Selective
+"Dicamba	",Selective
+"Glufosinate-ammonium/Liberty	",Non-Selective
+Glyphosate/Roundup,Non-Selective
+Imazapyr,Non-Selective
+Imazethapyr/ Pursuit,Selective
+"Metolachlor/ Bicep, Dual, etc.",Non-Selective
+Na Salt of bentazon/ Basagran,Selective
+Paraquat/Gramoxone,Non-Selective
+Pendimethalin/ Prowl,Selective
+Rimsulfuron/LeadOff,Selective
+Rimsulfuron/LeadOff,Selective
+Trifluralin/ Treflan,Selective
