@@ -5,6 +5,8 @@ MainFunction <- function(){ # begin MainFunction()
   # import required libraries
   require(tidyr)
   require(RPostgreSQL)
+  require(googlesheets)
+  require(reshape2)
 
   # define where to find configuration file
   source("~/Desktop/configuration.R")
@@ -12,7 +14,7 @@ MainFunction <- function(){ # begin MainFunction()
   # ----- Set up Log File -----
 
   require(logging); basicConfig()
-  addHandler(writeToFile, logger="", file=paste("~/Documents/GitHub/CROWN/Data_Flow_Team/SQL_Database/Data_Import/log_",Sys.Date(),".log",sep=""))
+  addHandler(writeToFile, logger="", file=paste("~/Documents/GitHub/CROWN/Data_Flow_Team/SQL_Database/Data_Import/log_files/log_",Sys.Date(),".log",sep=""))
 
   # ----- Import Structural Inputs -----
 
@@ -34,10 +36,20 @@ MainFunction <- function(){ # begin MainFunction()
   # ImportTreatments()
   # ImportTypes()
   # ImportChemicalFamilies()
-  ImportChemicalNames()
+  # ImportChemicalNames()
+
+  # ----- Access Google Drive  -----
+
+  # gs_auth(new_user = TRUE)
 
 
+  # ----- Import User Inputs -----
 
+  #### Georgia - 2018 ####
+
+  ImportProducerIdsGA18()
+  ImportSiteInfoGA18()
+  ImportCCMixtureGA18()
 
 
 
