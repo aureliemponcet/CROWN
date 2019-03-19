@@ -1,4 +1,4 @@
-ImportSiteInfoGA18 <- function(){ # begin function to import producer_ids
+ImportSiteInfo <- function(){ # begin function to import producer_ids
 
   # ----- Complete Log File -----
 
@@ -13,9 +13,12 @@ ImportSiteInfoGA18 <- function(){ # begin function to import producer_ids
   # ----- Import data from Google Spreadsheet -----
 
   # import data from google sheet
-  keyga18 <- gs_key("1DXVi4MaEvZ_UbNu-pcT5skeb_4GfMCqS4cNkb494-OE") # define address of googlesheet
-  sheet <- as.data.frame(gs_read(keyga18, ws = "START_Sites", range = cell_cols(1:12), col_names=T, skip=1)) # import data from googlesheet
-  loginfo("Table: site_information: GA - Connected to DB", logger = "") # complete log file
+  keys <- c("1DXVi4MaEvZ_UbNu-pcT5skeb_4GfMCqS4cNkb494-OE",  # GA2018
+            "1Az_8qAfpjVta9vXZFhr3YTsxSsLGHQmGTsPU2Qm27Pg") # GA2017
+
+  for(key in keys){ # begin iteration over google sheets
+
+  sheet <- as.data.frame(gs_read(gs_key(key), ws = "START_Sites", range = cell_cols(1:12), col_names=T, skip=1)) # import data from googlesheet
 
   # format data
   sheet <- sheet[is.na(sheet$CODE)==F,]   # remove empty lines
@@ -39,7 +42,7 @@ ImportSiteInfoGA18 <- function(){ # begin function to import producer_ids
   if(NROW(sheet[(sheet$code %in% codes) == F,])>0){ # check if some 3-letter codes were not properly defined
       subset <- sheet[(sheet$code %in% codes) == F,] # select all lines with 3-letter codes not properly defined
       for(row in 1:NROW(subset)){ # begin iteration over the 3-letter codes that were not properly defined
-         logwarn(paste(subset$state[row],": ",paste(subset[row,], collapse = ' - '),": 3-letter farm code was not properly defined", sep=""),  logger = "") # write warning onto log file
+         logwarn(paste(paste(subset[row,], collapse = ' - '),": 3-letter farm code was not properly defined", sep=""),  logger = "") # write warning onto log file
       } # end iteration over the 3-letter codes that were not properly defined
     sheet <- sheet[sheet$code %in% codes,]  # discard row
   } # end check on 3-letter codes
@@ -146,6 +149,8 @@ ImportSiteInfoGA18 <- function(){ # begin function to import producer_ids
     } # end if statement checking if producer is already in database
  } # end iteration over observations in spreadsheet
 
+  } # end  iteration over google sheets
+
   # nullify NAs
   nullif <- "UPDATE producer_ids SET email =NULLIF(email, '[null]'), phone = NULLIF(phone, '[null]'), address = NULLIF(address,'[null]')"
   dbGetQuery(con, nullif)
@@ -164,4 +169,3 @@ ImportSiteInfoGA18 <- function(){ # begin function to import producer_ids
 } # end function
 
 
-# 33.571214,-83.494097

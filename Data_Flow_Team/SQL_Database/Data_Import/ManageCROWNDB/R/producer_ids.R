@@ -1,4 +1,4 @@
-ImportProducerIdsGA18 <- function(){ # begin function to import producer_ids
+ImportProducerIds <- function(){ # begin function to import producer_ids
 
   # ----- Complete Log File -----
 
@@ -13,9 +13,12 @@ ImportProducerIdsGA18 <- function(){ # begin function to import producer_ids
   # ----- Import data from Google Spreadsheet -----
 
   # import data from google sheet
-  keyga18 <- gs_key("1DXVi4MaEvZ_UbNu-pcT5skeb_4GfMCqS4cNkb494-OE") # define address of googlesheet
-  sheet <- as.data.frame(gs_read(keyga18, ws = "START_Sites", range = cell_cols(1:12), col_names=T, skip=1)) # import data from googlesheet
-  loginfo("Table: producers_id: GA - Connected to DB", logger = "") # complete log file
+  keys <- c("1DXVi4MaEvZ_UbNu-pcT5skeb_4GfMCqS4cNkb494-OE",  # GA2018
+            "1Az_8qAfpjVta9vXZFhr3YTsxSsLGHQmGTsPU2Qm27Pg") # GA2017
+
+  for(key in keys){ # begin iteration over google sheets
+
+  sheet <- as.data.frame(gs_read(gs_key(key), ws = "START_Sites", range = cell_cols(1:12), col_names=T, skip=1)) # import data from googlesheet
 
   # format data
   sheet <- sheet[is.na(sheet$Producer_ID)==F,]   # remove empty lines
@@ -83,12 +86,13 @@ ImportProducerIdsGA18 <- function(){ # begin function to import producer_ids
     } # end if statement checking if producer is already in database
   } # end iteration over observations in spreadsheet
 
+  } # end iteration over google sheets
+
   # nullify NAs
   nullif <- "UPDATE producer_ids SET email =NULLIF(email, '[null]'), phone = NULLIF(phone, '[null]'), address = NULLIF(address,'[null]')"
   dbGetQuery(con, nullif)
 
   loginfo("Table: producer_ids", logger = "")
   loginfo(paste("Time end:", Sys.time()), logger="")
-
 
 } # end function
