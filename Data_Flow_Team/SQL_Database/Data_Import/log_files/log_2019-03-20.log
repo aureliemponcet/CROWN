@@ -961,3 +961,529 @@
 2019-03-20 11:03:55 INFO::MODIFIED: NEW:  BWC - 2018 - NC - Wake - -78.5002 - 35.746 - [null] - [null] - 2018NC001 - 7846 poole road  raleigh, NC
 2019-03-20 11:03:55 INFO::Table: site_information
 2019-03-20 11:03:55 INFO::Time end: 2019-03-20 11:03:55
+2019-03-20 11:08:57 INFO::Table: cc_mixture
+2019-03-20 11:08:57 INFO::Time ini: 2019-03-20 11:08:57
+2019-03-20 11:09:01 INFO::MODIFIED: OLD:
+2019-03-20 11:09:01 INFO::MODIFIED: NEW:  HFS - Radish/Turnip - 2
+2019-03-20 11:09:05 WARNING::: LBR - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 11:09:05 WARNING::: ULB - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 11:09:05 INFO::ADDED: DCA - Cereal Rye - NA
+2019-03-20 11:09:05 INFO::ADDED: DCA - Unknown Clover spp - NA
+2019-03-20 11:09:05 INFO::ADDED: DCA - Triticale - NA
+2019-03-20 11:09:05 INFO::ADDED: DCA - Unknown Vetch spp - NA
+2019-03-20 11:09:05 INFO::ADDED: DCB - Cereal Rye - NA
+2019-03-20 11:09:05 INFO::ADDED: DCB - Unknown Clover spp - NA
+2019-03-20 11:09:05 INFO::ADDED: DCB - Triticale - NA
+2019-03-20 11:09:05 INFO::ADDED: DCB - Unknown Vetch spp - NA
+2019-03-20 11:09:05 INFO::ADDED: DMK - Cereal Rye - NA
+2019-03-20 11:09:05 INFO::ADDED: DMP - Cereal Rye - NA
+2019-03-20 11:09:05 INFO::ADDED: DMP - Radish/Turnip - NA
+2019-03-20 11:09:05 INFO::ADDED: RAL - Oats - NA
+2019-03-20 11:09:05 INFO::ADDED: RAL - Radish/Turnip - NA
+2019-03-20 11:09:05 INFO::ADDED: RAL - Unknown Clover spp - NA
+2019-03-20 11:09:05 INFO::ADDED: RKM - Cereal Rye - NA
+2019-03-20 11:09:05 INFO::ADDED: RKM - Triticale - NA
+2019-03-20 11:09:05 INFO::ADDED: RKM - Rape/Canola - NA
+2019-03-20 11:09:05 INFO::ADDED: RKM - Unknown Clover spp - NA
+2019-03-20 11:09:05 INFO::ADDED: RPS - Oats - NA
+2019-03-20 11:09:05 INFO::ADDED: RPS - Radish/Turnip - NA
+2019-03-20 11:09:05 INFO::ADDED: RPS - Unknown Clover spp - NA
+2019-03-20 11:09:05 INFO::ADDED: SCF - Triticale - NA
+2019-03-20 11:09:05 INFO::ADDED: SJC - Rape/Canola - NA
+2019-03-20 11:09:05 INFO::ADDED: ULA - Cereal Rye - NA
+2019-03-20 11:09:05 INFO::ADDED: ULA - Radish/Turnip - NA
+2019-03-20 11:09:05 INFO::ADDED: ULA - Unknown Clover spp - NA
+2019-03-20 11:09:05 INFO::ADDED: ULA - Unknown Vetch spp - NA
+2019-03-20 11:09:05 INFO::ADDED: ULB - Cereal Rye - NA
+2019-03-20 11:09:05 INFO::ADDED: ULB - Radish/Turnip - NA
+2019-03-20 11:09:05 INFO::ADDED: ULB - Unknown Clover spp - NA
+2019-03-20 11:09:05 INFO::ADDED: ULB - Unknown Vetch spp - NA
+2019-03-20 11:09:11 WARNING::: BRL - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 11:09:11 INFO::ADDED: ALR - Oats - NA
+2019-03-20 11:09:11 INFO::ADDED: ALR - Unknown Clover spp - NA
+2019-03-20 11:09:11 INFO::ADDED: ALR - Radish/Turnip - NA
+2019-03-20 11:09:11 INFO::ADDED: BWA - Triticale - NA
+2019-03-20 11:09:11 INFO::ADDED: BWA - Radish/Turnip - NA
+2019-03-20 11:09:11 INFO::ADDED: BWA - Oats - NA
+2019-03-20 11:09:11 INFO::ADDED: BWA - Unknown Clover spp - NA
+2019-03-20 11:09:11 INFO::ADDED: BWA - Cereal Rye - NA
+2019-03-20 11:09:11 INFO::ADDED: BWB - Triticale - NA
+2019-03-20 11:09:11 INFO::ADDED: BWB - Radish/Turnip - NA
+2019-03-20 11:09:11 INFO::ADDED: BWB - Oats - NA
+2019-03-20 11:09:11 INFO::ADDED: BWB - Unknown Clover spp - NA
+2019-03-20 11:09:11 INFO::ADDED: BWB - Cereal Rye - NA
+2019-03-20 11:09:11 INFO::ADDED: BWC - Triticale - NA
+2019-03-20 11:09:11 INFO::ADDED: BWC - Radish/Turnip - NA
+2019-03-20 11:09:11 INFO::ADDED: BWC - Oats - NA
+2019-03-20 11:09:11 INFO::ADDED: BWC - Unknown Clover spp - NA
+2019-03-20 11:09:11 INFO::ADDED: BWC - Cereal Rye - NA
+2019-03-20 11:09:11 INFO::ADDED: CDA - Cereal Rye - NA
+2019-03-20 11:09:11 INFO::ADDED: CDA - Triticale - NA
+2019-03-20 11:09:11 INFO::ADDED: CDA - Unknown Vetch spp - NA
+2019-03-20 11:09:11 INFO::ADDED: CDA - Unknown Clover spp - NA
+2019-03-20 11:09:11 INFO::ADDED: CDB - Cereal Rye - NA
+2019-03-20 11:09:11 INFO::ADDED: CDB - Triticale - NA
+2019-03-20 11:09:11 INFO::ADDED: CDB - Unknown Vetch spp - NA
+2019-03-20 11:09:11 INFO::ADDED: CDB - Unknown Clover spp - NA
+2019-03-20 11:09:11 INFO::ADDED: GBO - Cereal Rye - 120
+2019-03-20 11:09:11 INFO::ADDED: KCF - Cereal Rye - 70
+2019-03-20 11:09:11 INFO::ADDED: KCW - Cereal Rye - 70
+2019-03-20 11:09:11 INFO::ADDED: SRA - Oats - NA
+2019-03-20 11:09:11 INFO::ADDED: SRA - Unknown Clover spp - NA
+2019-03-20 11:09:11 INFO::ADDED: SRA - Radish/Turnip - NA
+2019-03-20 11:09:11 INFO::ADDED: SRB - Oats - NA
+2019-03-20 11:09:11 INFO::ADDED: SRB - Unknown Clover spp - NA
+2019-03-20 11:09:11 INFO::ADDED: SRB - Radish/Turnip - NA
+2019-03-20 11:09:11 INFO::Table: cc_mixture
+2019-03-20 11:09:11 INFO::Time end: 2019-03-20 11:09:11
+2019-03-20 11:11:13 INFO::Table: cc_mixture
+2019-03-20 11:11:13 INFO::Time ini: 2019-03-20 11:11:13
+2019-03-20 11:11:16 INFO::MODIFIED: OLD:
+2019-03-20 11:11:16 INFO::MODIFIED: NEW:  HFS - Radish/Turnip - 2
+2019-03-20 11:11:19 WARNING::: LBR - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 11:11:19 WARNING::: ULB - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 11:11:25 INFO::ADDED: BRL - Annual Ryegrass - NA
+2019-03-20 11:11:25 INFO::Table: cc_mixture
+2019-03-20 11:11:25 INFO::Time end: 2019-03-20 11:11:25
+2019-03-20 11:49:06 INFO::Table: producer_ids
+2019-03-20 11:49:06 INFO::Time ini: 2019-03-20 11:49:06
+2019-03-20 11:49:13 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net - 9102841511
+2019-03-20 11:49:13 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuiders@charter.net - 9102841511
+2019-03-20 11:49:13 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 11:49:13 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 11:49:13 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 11:49:13 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 11:49:20 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 11:49:20 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 11:49:20 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuiders@charter.net - 9102841511
+2019-03-20 11:49:20 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net - 9102841511
+2019-03-20 11:49:20 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 11:49:20 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 11:49:24 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 11:49:24 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 910-385-8667
+2019-03-20 11:56:43 INFO::Table: producer_ids
+2019-03-20 11:56:43 INFO::Time ini: 2019-03-20 11:56:43
+2019-03-20 11:57:26 INFO::Table: producer_ids
+2019-03-20 11:57:26 INFO::Time ini: 2019-03-20 11:57:26
+2019-03-20 11:57:33 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 11:57:33 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 11:57:33 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 11:57:33 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 11:57:41 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 11:57:41 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 11:57:41 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 11:57:41 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 11:57:44 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 11:57:44 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 11:57:44 INFO::ADDED: 2019NC003 - Howard - NA - 9102891658
+2019-03-20 11:57:44 INFO::ADDED: 2019NC001 - Caswell - roy.maitland@ncagr.gov - 9192220877
+2019-03-20 11:57:44 INFO::ADDED: 2019NC002 - White - NA - NA
+2019-03-20 11:57:44 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 11:57:44 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 11:57:44 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 11:57:44 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 11:57:44 INFO::ADDED: 2019NC004 - Lowder - nathan.lowder@nc.usda.gov - 2024804895
+2019-03-20 12:00:01 INFO::Table: producer_ids
+2019-03-20 12:00:01 INFO::Time ini: 2019-03-20 12:00:01
+2019-03-20 12:02:27 INFO::Table: producer_ids
+2019-03-20 12:02:27 INFO::Time ini: 2019-03-20 12:02:27
+2019-03-20 12:02:35 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:02:35 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:02:35 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:02:35 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:02:35 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:02:35 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:02:42 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:02:42 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:02:42 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:02:42 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:02:45 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:02:45 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:02:45 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:02:45 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:02:45 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:02:45 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:02:45 INFO::ADDED: 2019GA001 - Storey - gainesstory@gmail.com - 7065511382
+2019-03-20 12:02:45 INFO::ADDED: 2019GA002 - Sandeford - jacobsandeford@gmail.com - 7065512333
+2019-03-20 12:02:45 INFO::ADDED: 2019GA003 - Iron Horse Farm - gassett@uga.edu - 7707154285
+2019-03-20 12:02:45 INFO::ADDED: 2019AL001 - Grimes - mark_grimes@hma.honda.com - 2564841169
+2019-03-20 12:02:45 INFO::ADDED: 2019AL002 - Johnson - mqj9261@gmail.com - 3345508619
+2019-03-20 12:02:45 INFO::ADDED: 2019AL003 - Kirkland - tkirklandfarm@gmail.com - 3347266594
+2019-03-20 12:02:45 INFO::ADDED: 2019AL004 - Haddock - haddockfarms@comcast.net - 2563664336
+2019-03-20 12:02:45 INFO::ADDED: 2019AL005 - Martin - martinfarm@bellsouth.net - 2565662281
+2019-03-20 12:02:45 INFO::ADDED: 2019AL006 - Lazenby - mitch@lazenbyfarms.com - 3347032126
+2019-03-20 12:02:45 INFO::ADDED: 2019AL007 - Meyer - bradm@agric-afc.com - 2565659072
+2019-03-20 12:02:45 INFO::Table: producer_ids
+2019-03-20 12:02:45 INFO::Time end: 2019-03-20 12:02:45
+2019-03-20 12:02:45 INFO::Table: site_information
+2019-03-20 12:02:45 INFO::Time ini: 2019-03-20 12:02:45
+2019-03-20 12:03:00 INFO::ADDED: DAA - 2019 - NC - Duplin - -78.151764 - 34.747458 - NA - NA - 2017NC003 - 352 powell page road, wallace, NC
+2019-03-20 12:03:00 INFO::ADDED: DAB - 2019 - NC - Duplin - -77.894249 - 34.990803 - strips - NA - 2019NC003 - 480 dark branch road, Kenansville, NC
+2019-03-20 12:03:00 INFO::ADDED: DAD - 2019 - NC - Duplin - -78.164523 - 34.758483 - NA - NA - 2017NC002 - 685 powell page road, wallace NC
+2019-03-20 12:03:00 INFO::ADDED: DAE - 2019 - NC - Duplin - -78.169009 - 34.762667 - NA - NA - 2017NC002 - 585 powell page road , wallace, NC
+2019-03-20 12:03:00 INFO::ADDED: LAB - 2019 - NC - Lenoir - -77.613702 - -78.169009 - NA - NA - 2019NC001 - caswell research station, kinston, NC (mathus field)
+2019-03-20 12:03:00 INFO::ADDED: LAC - 2019 - NC - Lenoir - -77.655748 - 35.269181 - NA - NA - 2019NC001 - 1670 smithfield way, kinston, NC
+2019-03-20 12:03:00 INFO::ADDED: LSS - 2019 - NC - Cleveland - -81.651528 - 35.359444 - strips - Tom Dyson 
+tom_dyson@ncsu.edu - 2019NC002 - 1512 state road 1351, shelby NC
+2019-03-20 12:03:01 INFO::ADDED: RAA - 2019 - NC - Robeson - -79.316856 - 34.580668 - NA - Mac Malloy 
+(910) 237-5187 - 2017NC007 - 4699 NC-130, rowland, NC
+2019-03-20 12:03:01 INFO::ADDED: RAB - 2019 - NC - Robeson - -79.250342 - 34.531326 - NA - Mac Malloy 
+(910) 237-5187 - 2017NC007 - 736 horne road, rowland
+2019-03-20 12:03:01 INFO::ADDED: RAD - 2019 - NC - Robeson - -79.278694 - 34.534418 - NA - Mac Malloy 
+(910) 237-5187 - 2017NC008 - 1492 mckinnon-pate road, Rowland, NC
+2019-03-20 12:03:01 INFO::ADDED: SAA - 2019 - NC - Robeson - -79.27502 - 34.535915 - NA - Mac Malloy 
+(910) 237-5187 - 2017NC008 - 1492 mckinnon-pate, rowland, NC
+2019-03-20 12:03:01 INFO::ADDED: SAB - 2019 - NC - Sampson - -78.352863 - 35.101031 - strips - NA - 2018NC004 - 3520 basstown road
+2019-03-20 12:03:01 INFO::ADDED: STA - 2019 - NC - Stanly - NA - NA - NA - Dustin Adcock 
+(704) 989-9190 - 2017NC005 - NA
+2019-03-20 12:03:01 INFO::ADDED: STC - 2019 - NC - Stanly - -80.000002 - -78.352863 - NA - Nathan Lowder 
+(202) 480-4895 - 2019NC004 - pankey drive, mount gilead, NC
+2019-03-20 12:03:01 INFO::ADDED: STD - 2019 - NC - Stanly - -80.104162 - 35.173557 - NA - Nathan Lowder 
+(202) 480-4895 - 2019NC004 - 6523 roberts loop road, norwood NC
+2019-03-20 12:03:01 INFO::ADDED: KPB - 2019 - GA - Burke - NA - NA - NA - Peyton Sapp 706 551 1670 - 2019GA001 - Hwy 80 mile 21
+2019-03-20 12:03:01 INFO::ADDED: NUY - 2019 - GA - Burke - NA - NA - NA - Peyton Sapp 706 551 1670 - 2019GA001 - Hwy 24 plantation
+2019-03-20 12:03:01 INFO::ADDED: TUK - 2019 - GA - Burke - NA - NA - NA - Peyton Sapp 706 551 1670 - 2019GA002 - Old Wadley Road
+2019-03-20 12:03:01 INFO::ADDED: YHO - 2019 - GA - Buke - NA - NA - NA - Peyton Sapp 706 551 1670 - 2019GA002 - Old Wadley Road
+2019-03-20 12:03:01 INFO::ADDED: NTL - 2019 - GA - Oconee - NA - NA - NA - NA - 2019GA003 - Hwy 15, Greensboro
+2019-03-20 12:03:01 INFO::ADDED: TRR - 2019 - AL - Cherokee - -85.638599 - 34.092423 - NA - Philip Abney philip.abney@al.usda.gov 256-927-8732 - 2019AL001 - NA
+2019-03-20 12:03:01 INFO::ADDED: BNF - 2019 - AL - Dale - -85.418835 - 31.397074 - NA - Adam Sconyers adam.sconyers@al.usda.gov 334-432-0261 - 2019AL002 - NA
+2019-03-20 12:03:01 INFO::ADDED: DNY - 2019 - AL - Dale - -85.476737 - 31.3523 - NA - Adam Sconyers adam.sconyers@al.usda.gov 334-432-0261 - 2019AL003 - NA
+2019-03-20 12:03:01 INFO::ADDED: IOT - 2019 - AL - Lauderdale - -87.788797 - 34.796797 - NA - Renea Dyer renea.dyer@al.usda.gov 256-262-2538 - 2019AL004 - NA
+2019-03-20 12:03:01 INFO::ADDED: VOT - 2019 - AL - Lawrence - -87.282253 - 34.69282 - NA - Kathy Gotcher kathy.gotcher@al.usda.gov 256-280-5029 - 2019AL005 - NA
+2019-03-20 12:03:01 INFO::ADDED: PCN - 2019 - AL - Lee - -85.418127 - 32.422442 - NA - Patrick Rohling patrick.rohling@al.usda.gov 334-321-1900 - 2019AL006 - NA
+2019-03-20 12:03:01 INFO::ADDED: RFV - 2019 - AL - Limestone - -87.083524 - 34.704303 - NA - Joyce Lane joyce.lane@al.usda.gov 256-232-4027 - 2019AL007 - 13685 Nuclear Plant Road, Athens, AL 35611
+2019-03-20 12:03:01 INFO::Table: site_information
+2019-03-20 12:03:01 INFO::Time end: 2019-03-20 12:03:01
+2019-03-20 12:03:01 INFO::Table: cc_mixture
+2019-03-20 12:03:01 INFO::Time ini: 2019-03-20 12:03:01
+2019-03-20 12:03:04 INFO::MODIFIED: OLD:
+2019-03-20 12:03:04 INFO::MODIFIED: NEW:  HFS - Radish/Turnip - 2
+2019-03-20 12:03:07 WARNING::: LBR - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 12:03:07 WARNING::: ULB - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 12:03:12 INFO::Table: cc_mixture
+2019-03-20 12:03:12 INFO::Time end: 2019-03-20 12:03:12
+2019-03-20 12:06:57 INFO::Table: producer_ids
+2019-03-20 12:06:57 INFO::Time ini: 2019-03-20 12:06:57
+2019-03-20 12:07:05 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:07:05 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:07:05 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:07:05 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:07:05 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:07:05 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:07:13 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:07:13 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:07:13 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:07:13 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:07:16 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:07:16 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:07:16 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:07:16 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:07:16 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:07:16 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:07:16 INFO::Table: producer_ids
+2019-03-20 12:07:16 INFO::Time end: 2019-03-20 12:07:16
+2019-03-20 12:07:16 INFO::Table: site_information
+2019-03-20 12:07:16 INFO::Time ini: 2019-03-20 12:07:16
+2019-03-20 12:07:31 INFO::MODIFIED: OLD:  774 - VOT - 2019 - AL - Lawrence - -87.2822 - 34.6928 - NA - Kathy Gotcher kathy.gotcher@al.usda.gov 256-280-5029 - 2019AL005 - NA
+2019-03-20 12:07:31 INFO::MODIFIED: NEW:  VOT - 2019 - AL - Lawrence - -87.2823 - 34.6928 - [null] - Kathy Gotcher kathy.gotcher@al.usda.gov 256-280-5029 - 2019AL005 - [null]
+2019-03-20 12:07:31 INFO::Table: site_information
+2019-03-20 12:07:31 INFO::Time end: 2019-03-20 12:07:31
+2019-03-20 12:07:31 INFO::Table: cc_mixture
+2019-03-20 12:07:31 INFO::Time ini: 2019-03-20 12:07:31
+2019-03-20 12:07:34 INFO::MODIFIED: OLD:
+2019-03-20 12:07:34 INFO::MODIFIED: NEW:  HFS - Radish/Turnip - 2
+2019-03-20 12:07:37 WARNING::: LBR - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 12:07:37 WARNING::: ULB - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 12:08:19 INFO::Table: producer_ids
+2019-03-20 12:08:19 INFO::Time ini: 2019-03-20 12:08:19
+2019-03-20 12:08:25 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:08:25 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:08:25 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:08:25 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:08:25 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:08:25 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:08:31 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:08:31 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:08:31 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:08:31 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:08:34 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:08:34 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:08:34 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:08:34 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:08:34 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:08:34 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:08:34 INFO::Table: producer_ids
+2019-03-20 12:08:34 INFO::Time end: 2019-03-20 12:08:34
+2019-03-20 12:08:34 INFO::Table: site_information
+2019-03-20 12:08:34 INFO::Time ini: 2019-03-20 12:08:34
+2019-03-20 12:08:48 INFO::Table: site_information
+2019-03-20 12:08:48 INFO::Time end: 2019-03-20 12:08:48
+2019-03-20 12:08:48 INFO::Table: cc_mixture
+2019-03-20 12:08:48 INFO::Time ini: 2019-03-20 12:08:48
+2019-03-20 12:08:51 INFO::MODIFIED: OLD:
+2019-03-20 12:08:51 INFO::MODIFIED: NEW:  HFS - Radish/Turnip - 2
+2019-03-20 12:08:54 WARNING::: LBR - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 12:08:54 WARNING::: ULB - Annual RyeGrass - NA: cover crop specie was not properly defined
+2019-03-20 12:09:03 INFO::ADDED: LAB - Cereal Rye - 70
+2019-03-20 12:09:03 INFO::ADDED: LAC - Cereal Rye - 70
+2019-03-20 12:09:03 INFO::ADDED: NTL - Cereal Rye - NA
+2019-03-20 12:09:03 INFO::Table: cc_mixture
+2019-03-20 12:09:03 INFO::Time end: 2019-03-20 12:09:03
+2019-03-20 12:16:14 INFO::Table: producer_ids
+2019-03-20 12:16:14 INFO::Time ini: 2019-03-20 12:16:14
+2019-03-20 12:16:20 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:16:20 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:16:20 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:16:20 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:16:20 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:16:20 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:16:27 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:16:27 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:16:27 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:16:27 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:16:30 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:16:30 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:16:30 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:16:30 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:16:30 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:16:30 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:16:30 INFO::Table: producer_ids
+2019-03-20 12:16:30 INFO::Time end: 2019-03-20 12:16:30
+2019-03-20 12:16:30 INFO::Table: site_information
+2019-03-20 12:16:30 INFO::Time ini: 2019-03-20 12:16:30
+2019-03-20 12:16:45 INFO::Table: site_information
+2019-03-20 12:16:45 INFO::Time end: 2019-03-20 12:16:45
+2019-03-20 12:16:45 INFO::Table: cc_mixture
+2019-03-20 12:16:45 INFO::Time ini: 2019-03-20 12:16:45
+2019-03-20 12:16:49 INFO::MODIFIED: OLD:
+2019-03-20 12:16:49 INFO::MODIFIED: NEW:  HFS - Radish/Turnip - 2
+2019-03-20 12:16:52 INFO::ADDED: LBR - Annual Ryegrass - NA
+2019-03-20 12:16:52 INFO::MODIFIED: OLD:
+2019-03-20 12:16:52 INFO::MODIFIED: NEW:  ULB - Annual Ryegrass - 0
+2019-03-20 12:17:01 INFO::Table: cc_mixture
+2019-03-20 12:17:01 INFO::Time end: 2019-03-20 12:17:01
+2019-03-20 12:18:00 INFO::Table: producer_ids
+2019-03-20 12:18:00 INFO::Time ini: 2019-03-20 12:18:00
+2019-03-20 12:18:06 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:18:06 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:18:06 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:18:06 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:18:06 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:18:06 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:18:12 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:18:12 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:18:12 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:18:12 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:18:15 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:18:15 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:18:15 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:18:15 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:18:15 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:18:15 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:18:16 INFO::Table: producer_ids
+2019-03-20 12:18:16 INFO::Time end: 2019-03-20 12:18:16
+2019-03-20 12:18:16 INFO::Table: site_information
+2019-03-20 12:18:16 INFO::Time ini: 2019-03-20 12:18:16
+2019-03-20 12:18:31 INFO::Table: site_information
+2019-03-20 12:18:31 INFO::Time end: 2019-03-20 12:18:31
+2019-03-20 12:18:31 INFO::Table: cc_mixture
+2019-03-20 12:18:31 INFO::Time ini: 2019-03-20 12:18:31
+2019-03-20 12:18:34 INFO::MODIFIED: OLD:
+2019-03-20 12:18:34 INFO::MODIFIED: NEW:  HFS - Radish/Turnip - 2
+2019-03-20 12:18:37 INFO::MODIFIED: OLD:
+2019-03-20 12:18:37 INFO::MODIFIED: NEW:  ULB - Annual Ryegrass - 0
+2019-03-20 12:18:46 INFO::Table: cc_mixture
+2019-03-20 12:18:46 INFO::Time end: 2019-03-20 12:18:46
+2019-03-20 12:26:00 INFO::Table: producer_ids
+2019-03-20 12:26:00 INFO::Time ini: 2019-03-20 12:26:00
+2019-03-20 12:26:06 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:26:06 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:26:06 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:26:06 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:26:06 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:26:06 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:26:14 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:26:14 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:26:14 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:26:14 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:26:16 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:26:16 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:26:16 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:26:16 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:26:16 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:26:16 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:26:17 INFO::Table: producer_ids
+2019-03-20 12:26:17 INFO::Time end: 2019-03-20 12:26:17
+2019-03-20 12:26:17 INFO::Table: site_information
+2019-03-20 12:26:17 INFO::Time ini: 2019-03-20 12:26:17
+2019-03-20 12:26:29 INFO::Table: site_information
+2019-03-20 12:26:29 INFO::Time end: 2019-03-20 12:26:29
+2019-03-20 12:26:29 INFO::Table: cc_mixture
+2019-03-20 12:26:29 INFO::Time ini: 2019-03-20 12:26:29
+2019-03-20 12:26:32 INFO::MODIFIED: OLD:
+2019-03-20 12:26:32 INFO::MODIFIED: NEW:  HFS - Radish/Turnip - 2
+2019-03-20 12:26:35 INFO::MODIFIED: OLD:
+2019-03-20 12:26:35 INFO::MODIFIED: NEW:  ULB - Annual Ryegrass - 0
+2019-03-20 12:26:43 INFO::Table: cc_mixture
+2019-03-20 12:26:43 INFO::Time end: 2019-03-20 12:26:43
+2019-03-20 12:34:20 INFO::Table: producer_ids
+2019-03-20 12:34:20 INFO::Time ini: 2019-03-20 12:34:20
+2019-03-20 12:34:27 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:34:27 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:34:27 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:34:27 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:34:27 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:34:27 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:34:33 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:34:33 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:34:33 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:34:33 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:34:36 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:34:36 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:34:36 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:34:36 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:34:36 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:34:36 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:34:36 INFO::Table: producer_ids
+2019-03-20 12:34:36 INFO::Time end: 2019-03-20 12:34:36
+2019-03-20 12:34:36 INFO::Table: site_information
+2019-03-20 12:34:36 INFO::Time ini: 2019-03-20 12:34:36
+2019-03-20 12:34:51 INFO::Table: site_information
+2019-03-20 12:34:51 INFO::Time end: 2019-03-20 12:34:51
+2019-03-20 12:34:51 INFO::Table: cc_mixture
+2019-03-20 12:34:51 INFO::Time ini: 2019-03-20 12:34:51
+2019-03-20 12:34:54 INFO::ADDED: HFS - Cereal Rye - 25
+2019-03-20 12:34:54 INFO::ADDED: HFS - Oats - 25
+2019-03-20 12:34:54 INFO::ADDED: HFS - Hairy Vetch - 4
+2019-03-20 12:34:54 INFO::ADDED: HFS - Crimson Clover - 5
+2019-03-20 12:34:54 INFO::ADDED: HFS - Radish/Turnip - 2
+2019-03-20 12:34:54 INFO::ADDED: IHS - Oats - 37
+2019-03-20 12:34:54 INFO::ADDED: IHS - Crimson Clover - 13
+2019-03-20 12:34:54 INFO::ADDED: RHS - Cereal Rye - 25
+2019-03-20 12:34:54 INFO::ADDED: RHS - Triticale - 10
+2019-03-20 12:34:54 INFO::ADDED: RHS - Oats - 7
+2019-03-20 12:34:54 INFO::ADDED: RHS - Winter Peas - 8
+2019-03-20 12:34:54 INFO::ADDED: RHS - Woolypod Vetch - 5
+2019-03-20 12:34:54 INFO::ADDED: RHS - Crimson Clover - 5
+2019-03-20 12:34:57 INFO::ADDED: DCA - Cereal Rye - NA
+2019-03-20 12:34:57 INFO::ADDED: DCA - Unknown Clover spp - NA
+2019-03-20 12:34:57 INFO::ADDED: DCA - Triticale - NA
+2019-03-20 12:34:57 INFO::ADDED: DCA - Unknown Vetch spp - NA
+2019-03-20 12:34:57 INFO::ADDED: DCB - Cereal Rye - NA
+2019-03-20 12:34:57 INFO::ADDED: DCB - Unknown Clover spp - NA
+2019-03-20 12:34:57 INFO::ADDED: DCB - Triticale - NA
+2019-03-20 12:34:57 INFO::ADDED: DCB - Unknown Vetch spp - NA
+2019-03-20 12:34:57 INFO::ADDED: DMK - Cereal Rye - NA
+2019-03-20 12:34:57 INFO::ADDED: DMP - Cereal Rye - NA
+2019-03-20 12:34:57 INFO::ADDED: DMP - Radish/Turnip - NA
+2019-03-20 12:34:57 INFO::ADDED: LBR - Annual Ryegrass - NA
+2019-03-20 12:34:57 INFO::ADDED: RAL - Oats - NA
+2019-03-20 12:34:57 INFO::ADDED: RAL - Radish/Turnip - NA
+2019-03-20 12:34:57 INFO::ADDED: RAL - Unknown Clover spp - NA
+2019-03-20 12:34:57 INFO::ADDED: RKM - Cereal Rye - NA
+2019-03-20 12:34:57 INFO::ADDED: RKM - Triticale - NA
+2019-03-20 12:34:57 INFO::ADDED: RKM - Rape/Canola - NA
+2019-03-20 12:34:57 INFO::ADDED: RKM - Unknown Clover spp - NA
+2019-03-20 12:34:57 INFO::ADDED: RPS - Oats - NA
+2019-03-20 12:34:57 INFO::ADDED: RPS - Radish/Turnip - NA
+2019-03-20 12:34:57 INFO::ADDED: RPS - Unknown Clover spp - NA
+2019-03-20 12:34:57 INFO::ADDED: SCF - Triticale - NA
+2019-03-20 12:34:57 INFO::ADDED: SJC - Rape/Canola - NA
+2019-03-20 12:34:57 INFO::ADDED: ULA - Cereal Rye - NA
+2019-03-20 12:34:57 INFO::ADDED: ULA - Radish/Turnip - NA
+2019-03-20 12:34:57 INFO::ADDED: ULA - Unknown Clover spp - NA
+2019-03-20 12:34:57 INFO::ADDED: ULA - Unknown Vetch spp - NA
+2019-03-20 12:34:57 INFO::ADDED: ULB - Cereal Rye - NA
+2019-03-20 12:34:57 INFO::ADDED: ULB - Radish/Turnip - NA
+2019-03-20 12:34:57 INFO::ADDED: ULB - Unknown Clover spp - NA
+2019-03-20 12:34:57 INFO::ADDED: ULB - Unknown Vetch spp - NA
+2019-03-20 12:34:57 INFO::ADDED: ULB - Annual Ryegrass - NA
+2019-03-20 12:35:00 INFO::ADDED: HFE - Cereal Rye - 50
+2019-03-20 12:35:00 INFO::ADDED: HFE - Crimson Clover - 5
+2019-03-20 12:35:00 INFO::ADDED: HFE - Hairy Vetch - 3
+2019-03-20 12:35:00 INFO::ADDED: HFE - Kale - 1
+2019-03-20 12:35:00 INFO::ADDED: HFE - Radish/Turnip - 2
+2019-03-20 12:35:00 INFO::ADDED: IHE - Oats - 50
+2019-03-20 12:35:00 INFO::ADDED: IHE - Crimson Clover - 12
+2019-03-20 12:35:03 INFO::ADDED: ALR - Oats - NA
+2019-03-20 12:35:03 INFO::ADDED: ALR - Unknown Clover spp - NA
+2019-03-20 12:35:03 INFO::ADDED: ALR - Radish/Turnip - NA
+2019-03-20 12:35:03 INFO::ADDED: BRL - Annual Ryegrass - NA
+2019-03-20 12:35:03 INFO::ADDED: BWA - Triticale - NA
+2019-03-20 12:35:03 INFO::ADDED: BWA - Radish/Turnip - NA
+2019-03-20 12:35:03 INFO::ADDED: BWA - Oats - NA
+2019-03-20 12:35:03 INFO::ADDED: BWA - Unknown Clover spp - NA
+2019-03-20 12:35:03 INFO::ADDED: BWA - Cereal Rye - NA
+2019-03-20 12:35:03 INFO::ADDED: BWB - Triticale - NA
+2019-03-20 12:35:03 INFO::ADDED: BWB - Radish/Turnip - NA
+2019-03-20 12:35:03 INFO::ADDED: BWB - Oats - NA
+2019-03-20 12:35:03 INFO::ADDED: BWB - Unknown Clover spp - NA
+2019-03-20 12:35:03 INFO::ADDED: BWB - Cereal Rye - NA
+2019-03-20 12:35:03 INFO::ADDED: BWC - Triticale - NA
+2019-03-20 12:35:03 INFO::ADDED: BWC - Radish/Turnip - NA
+2019-03-20 12:35:03 INFO::ADDED: BWC - Oats - NA
+2019-03-20 12:35:03 INFO::ADDED: BWC - Unknown Clover spp - NA
+2019-03-20 12:35:03 INFO::ADDED: BWC - Cereal Rye - NA
+2019-03-20 12:35:03 INFO::ADDED: CDA - Cereal Rye - NA
+2019-03-20 12:35:03 INFO::ADDED: CDA - Triticale - NA
+2019-03-20 12:35:03 INFO::ADDED: CDA - Unknown Vetch spp - NA
+2019-03-20 12:35:03 INFO::ADDED: CDA - Unknown Clover spp - NA
+2019-03-20 12:35:03 INFO::ADDED: CDB - Cereal Rye - NA
+2019-03-20 12:35:03 INFO::ADDED: CDB - Triticale - NA
+2019-03-20 12:35:03 INFO::ADDED: CDB - Unknown Vetch spp - NA
+2019-03-20 12:35:03 INFO::ADDED: CDB - Unknown Clover spp - NA
+2019-03-20 12:35:03 INFO::ADDED: GBO - Cereal Rye - 120
+2019-03-20 12:35:03 INFO::ADDED: KCF - Cereal Rye - 70
+2019-03-20 12:35:03 INFO::ADDED: KCW - Cereal Rye - 70
+2019-03-20 12:35:03 INFO::ADDED: SRA - Oats - NA
+2019-03-20 12:35:03 INFO::ADDED: SRA - Unknown Clover spp - NA
+2019-03-20 12:35:03 INFO::ADDED: SRA - Radish/Turnip - NA
+2019-03-20 12:35:03 INFO::ADDED: SRB - Oats - NA
+2019-03-20 12:35:03 INFO::ADDED: SRB - Unknown Clover spp - NA
+2019-03-20 12:35:03 INFO::ADDED: SRB - Radish/Turnip - NA
+2019-03-20 12:35:06 INFO::ADDED: LAB - Cereal Rye - 70
+2019-03-20 12:35:06 INFO::ADDED: LAC - Cereal Rye - 70
+2019-03-20 12:35:06 INFO::ADDED: NTL - Cereal Rye - NA
+2019-03-20 12:35:06 INFO::Table: cc_mixture
+2019-03-20 12:35:06 INFO::Time end: 2019-03-20 12:35:06
+2019-03-20 12:35:11 INFO::Table: producer_ids
+2019-03-20 12:35:11 INFO::Time ini: 2019-03-20 12:35:11
+2019-03-20 12:35:16 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:35:16 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:35:16 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:35:16 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:35:16 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:35:16 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:35:23 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-20 12:35:23 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:35:23 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-20 12:35:23 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-20 12:35:26 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-20 12:35:26 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-20 12:35:26 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:35:26 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:35:26 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-20 12:35:26 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-20 12:35:26 INFO::Table: producer_ids
+2019-03-20 12:35:26 INFO::Time end: 2019-03-20 12:35:26
+2019-03-20 12:35:26 INFO::Table: site_information
+2019-03-20 12:35:26 INFO::Time ini: 2019-03-20 12:35:26
+2019-03-20 12:35:43 INFO::Table: site_information
+2019-03-20 12:35:43 INFO::Time end: 2019-03-20 12:35:43
+2019-03-20 12:35:43 INFO::Table: cc_mixture
+2019-03-20 12:35:43 INFO::Time ini: 2019-03-20 12:35:43
+2019-03-20 12:38:33 INFO::Table: cc_mixture
+2019-03-20 12:38:33 INFO::Time ini: 2019-03-20 12:38:33
+2019-03-20 12:39:38 INFO::Table: cc_mixture
+2019-03-20 12:39:38 INFO::Time ini: 2019-03-20 12:39:38
+2019-03-20 12:39:54 INFO::Table: cc_mixture
+2019-03-20 12:39:54 INFO::Time ini: 2019-03-20 12:39:54
+2019-03-20 12:41:47 INFO::Table: cc_mixture
+2019-03-20 12:41:47 INFO::Time ini: 2019-03-20 12:41:47
+2019-03-20 12:42:03 INFO::Table: cc_mixture
+2019-03-20 12:42:03 INFO::Time end: 2019-03-20 12:42:03
+2019-03-20 12:44:49 INFO::Table: applied_chemicals
+2019-03-20 12:44:49 INFO::Time ini: 2019-03-20 12:44:49
+2019-03-20 13:28:28 WARNING::LNE - Herbicide - Glyphosate/Roundup - 24-D - NA: chemical name was not properly defined
+2019-03-20 13:28:28 WARNING::HFE - Herbicide - Glyphosate/Roundup - 24-D - NA: chemical name was not properly defined
+2019-03-20 13:48:51 INFO::ADDED: LNE - Glyphosate/Roundup

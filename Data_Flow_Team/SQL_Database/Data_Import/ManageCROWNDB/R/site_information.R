@@ -16,14 +16,15 @@ ImportSiteInfo <- function(){ # begin function to import producer_ids
   keys <- c("1Az_8qAfpjVta9vXZFhr3YTsxSsLGHQmGTsPU2Qm27Pg",# GA2017
             "1O3lqSHNw_Q4PHLYKZ86vW3AxkZGD1u-OFMKV_cz4xL4", # NC2017
             "1DXVi4MaEvZ_UbNu-pcT5skeb_4GfMCqS4cNkb494-OE",  # GA2018
-            "1j4kLc9e0P_Z5gGrJVtMVatJ7m2GfjrK6cFDYZ___CeM") # NC2018
+            "1j4kLc9e0P_Z5gGrJVtMVatJ7m2GfjrK6cFDYZ___CeM", # NC2018
+            "1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s") # 2019
 
   for(key in keys){ # begin iteration over google sheets
 
   sheet <- as.data.frame(gs_read(gs_key(key), ws = "START_Sites", range = cell_cols(1:13), col_names=T, skip=1)) # import data from googlesheet
 
   # format data
-  sheet <- sheet[is.na(sheet$CODE)==F,]   # remove empty lines
+  sheet <- sheet[is.na(sheet[,1])==F & is.na(sheet[,2])==F ,]   # remove empty lines
   colnames(sheet) <- c("code",  "producer_id", "year", "state", "last_name", "email", "phone", "address",
                        "county", "latitude","longitude", "notes",  "additional_contact") # rename colunmns
 

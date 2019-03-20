@@ -13,8 +13,11 @@ ImportCCMixture <- function(){ # begin function to import cc_mixture
   # ----- Import data from Google Spreadsheet -----
 
   # import data from google sheet
-  keys <- c("1DXVi4MaEvZ_UbNu-pcT5skeb_4GfMCqS4cNkb494-OE",  # GA2018
-            "1Az_8qAfpjVta9vXZFhr3YTsxSsLGHQmGTsPU2Qm27Pg") # GA2017
+  keys <- c("1Az_8qAfpjVta9vXZFhr3YTsxSsLGHQmGTsPU2Qm27Pg",# GA2017
+            "1O3lqSHNw_Q4PHLYKZ86vW3AxkZGD1u-OFMKV_cz4xL4", # NC2017
+            "1DXVi4MaEvZ_UbNu-pcT5skeb_4GfMCqS4cNkb494-OE",  # GA2018
+            "1j4kLc9e0P_Z5gGrJVtMVatJ7m2GfjrK6cFDYZ___CeM", # NC2018
+            "1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s") # 2019
 
   for(key in keys){ # begin iteration over google sheets
 
@@ -73,7 +76,8 @@ ImportCCMixture <- function(){ # begin function to import cc_mixture
 
     for (obs in 1:NROW(sheet2)) { # begin iteration over observations in sheet2
 
-      if((sheet2$code[obs] %in% codes.sp$code & sheet2$specie[obs] %in% codes.sp$cc_specie)==F) { # if code/specie combination is not already in database
+      code.value <- sheet2$code[obs]; specie.value <- sheet2$specie[obs]
+      if(NROW(codes.sp[codes.sp$code == code.value & codes.sp$cc_specie == specie.value,]) == 0) { # if code/specie combination is not already in database
 
         temp <- data.frame(code = sheet2$code[obs], cc_specie = sheet2$specie[obs], rate = sheet2$rate[obs], stringsAsFactors = F)
         dbWriteTable(con, "cc_mixture", value = temp, append=T, row.names=F) # add observation into database
@@ -81,7 +85,7 @@ ImportCCMixture <- function(){ # begin function to import cc_mixture
 
       } # end if statement checking if code/specie combination is already in database
 
-      if((sheet2$code[obs] %in% codes.sp$code & sheet2$specie[obs] %in% codes.sp$cc_specie)==T) { # if code and specie combination is already in database
+      if(NROW(codes.sp[codes.sp$code == code.value & codes.sp$cc_specie == specie.value,]) > 0) { # if code and specie combination is already in database
 
         # extract information available for that producer in database
         check <- dbGetQuery(con, paste("SELECT * FROM cc_mixture WHERE code ='",sheet2$code[obs],"' AND cc_specie = '", sheet2$specie[obs], "'", sep=""))
