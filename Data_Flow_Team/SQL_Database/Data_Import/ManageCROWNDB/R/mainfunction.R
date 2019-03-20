@@ -49,9 +49,9 @@ MainFunction <- function(){ # begin MainFunction()
 
   ImportProducerIds()
   ImportSiteInfo()
-  ImportCCMixture()
-  ImportAppliedChemicals()
-  # ImportFarmHistoryGA18
+  #ImportCCMixture()
+  #ImportAppliedChemicals()
+  #ImportFarmHistoryGA18
 
 
 
