@@ -10,13 +10,19 @@ ImportSiteInfo <- function(){ # begin function to import producer_ids
   con <- ConnectToDB() # connect to postgresql database
   on.exit(dbDisconnect(con)) # on exit, close connection
 
+  # ----- Create file to store all farm id present in the START_Sites sheets -----
+
+  farms.list <- c()
+
   # ----- Import data from Google Spreadsheet -----
 
   # import data from google sheet
   keys <- c("1Az_8qAfpjVta9vXZFhr3YTsxSsLGHQmGTsPU2Qm27Pg",# GA2017
             "1O3lqSHNw_Q4PHLYKZ86vW3AxkZGD1u-OFMKV_cz4xL4", # NC2017
+            "1-LZU9nkTZNvYGqxHx3Gis37vRrRM_ZOBYPNkBcEqKi0", # MD2017
             "1DXVi4MaEvZ_UbNu-pcT5skeb_4GfMCqS4cNkb494-OE",  # GA2018
             "1j4kLc9e0P_Z5gGrJVtMVatJ7m2GfjrK6cFDYZ___CeM", # NC2018
+            "1R9KMVoGzr_62_0aOp9zn8JGi160OdRhpklzF2fnEPi8", # MD2018
             "1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s") # 2019
 
   for(key in keys){ # begin iteration over google sheets
@@ -28,6 +34,8 @@ ImportSiteInfo <- function(){ # begin function to import producer_ids
   colnames(sheet) <- c("code",  "producer_id", "year", "state", "last_name", "email", "phone", "address",
                        "county", "latitude","longitude", "notes",  "additional_contact") # rename colunmns
 
+  # add farm ids to list
+  farms.list <- c(farms.list, sheet$code)
 
 
   # ----- Make sure data satisfy the foreign key constraint -----
@@ -68,6 +76,7 @@ ImportSiteInfo <- function(){ # begin function to import producer_ids
     } # end iteration over the 3-letter codes that were not properly formated
     sheet$state[(sheet$producer_id[row] %in% ids) == F] <- '[null]' # define producer id as null
   } # end check on states
+
 
 
   # ----- Complete Database -----
@@ -154,6 +163,22 @@ ImportSiteInfo <- function(){ # begin function to import producer_ids
   additional_contact =NULLIF(additional_contact, '[null]'), address =NULLIF(address, '[null]')"
 
   dbGetQuery(con, nullif)
+
+  # ----- Delete 3-letter codes which are not used anymore -----
+
+  farms.list <- data.frame(code = unique(farms.list))
+  farms.db <- data.frame(dbGetQuery(con, "SELECT * FROM site_information")) # select all producer_ids existing in DB
+
+  # select data to delete
+  farms.db <- farms.db[(farms.db$code %in% farms.list$code) == F,]
+
+  # delete data from database
+  if(NROW(farms.db)>0){
+    for(obs in 1:NROW(farms.db)){
+      delete <- paste("DELETE FROM site_information WHERE code = '", farms.db$code[obs], "'", sep="")
+      dbGetQuery(con, delete)
+      loginfo(paste("DELETED:",paste(farms.db[obs,], collapse = ' - ')), logger = "") # complete log file
+    }}
 
   loginfo("Table: site_information", logger = "")
   loginfo(paste("Time end:", Sys.time()), logger="")

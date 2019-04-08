@@ -47,11 +47,11 @@ MainFunction <- function(){ # begin MainFunction()
 
   #### Georgia - 2018 ####
 
-  #ImportProducerIds()
-  #ImportSiteInfo()
-  #ImportCCMixture()
-  ImportAppliedChemicals()
-  #ImportFarmHistoryGA18
+  # ImportProducerIds()
+  # ImportSiteInfo()
+  # ImportCCMixture()
+  # ImportAppliedChemicals()
+  ImportFarmHistory()
 
 
 

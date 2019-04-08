@@ -10,13 +10,19 @@ ImportProducerIds <- function(){ # begin function to import producer_ids
   con <- ConnectToDB() # connect to postgresql database
   on.exit(dbDisconnect(con)) # on exit, close connection
 
+  # ----- Create file to store all producers id present in google spreadsheets -----
+
+  ids.list <- c()
+
   # ----- Import data from Google Spreadsheet -----
 
   # import data from google sheet
   keys <- c("1Az_8qAfpjVta9vXZFhr3YTsxSsLGHQmGTsPU2Qm27Pg",# GA2017
             "1O3lqSHNw_Q4PHLYKZ86vW3AxkZGD1u-OFMKV_cz4xL4", # NC2017
+            "1-LZU9nkTZNvYGqxHx3Gis37vRrRM_ZOBYPNkBcEqKi0", # MD2017
             "1DXVi4MaEvZ_UbNu-pcT5skeb_4GfMCqS4cNkb494-OE",  # GA2018
             "1j4kLc9e0P_Z5gGrJVtMVatJ7m2GfjrK6cFDYZ___CeM", # NC2018
+            "1R9KMVoGzr_62_0aOp9zn8JGi160OdRhpklzF2fnEPi8", # MD2018
             "1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s") # 2019
 
   for(key in keys){ # begin iteration over google sheets
@@ -33,6 +39,10 @@ ImportProducerIds <- function(){ # begin function to import producer_ids
   sheet$phone <- gsub(" ","",sheet$phone)
   sheet$phone <- gsub("\\(","",sheet$phone)
   sheet$phone <- gsub(")","",sheet$phone)
+  sheet$phone <- gsub(".","",sheet$phone)
+
+  # add producer ids to sheet
+  ids.list <- c(ids.list, sheet$producer_id)
 
   # ----- Complete Database -----
 
@@ -95,6 +105,23 @@ ImportProducerIds <- function(){ # begin function to import producer_ids
   # nullify NAs
   nullif <- "UPDATE producer_ids SET email =NULLIF(email, '[null]'), phone = NULLIF(phone, '[null]')"
   dbGetQuery(con, nullif)
+
+  # ----- Delete producer ids which are not used anymore -----
+
+  ids.list <- data.frame(ids = unique(ids.list))
+  ids.db <- data.frame(dbGetQuery(con, "SELECT * FROM producer_ids")) # select all producer_ids existing in DB
+  colnames(ids.db)[1] <- "ids"
+
+  # select data to delete
+  ids.db <- ids.db[(ids.db$ids %in% ids.list$ids) == F,]
+
+  # delete data from database
+  if(NROW(ids.db)>0){
+  for(obs in 1:NROW(ids.db)){
+    delete <- paste("DELETE FROM producer_ids WHERE producer_id = '", ids.db$ids[obs], "'", sep="")
+    dbGetQuery(con, delete)
+    loginfo(paste("DELETED:",paste(ids.db[obs,], collapse = ' - ')), logger = "") # complete log file
+  }}
 
   loginfo("Table: producer_ids", logger = "")
   loginfo(paste("Time end:", Sys.time()), logger="")

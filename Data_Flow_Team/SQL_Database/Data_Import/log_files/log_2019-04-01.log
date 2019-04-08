@@ -1,0 +1,1469 @@
+2019-04-01 11:07:39 INFO::Table: producer_ids
+2019-04-01 11:07:39 INFO::Time ini: 2019-04-01 11:07:39
+2019-04-01 11:07:48 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-04-01 11:07:48 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-04-01 11:07:48 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-04-01 11:07:48 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-04-01 11:07:48 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-04-01 11:07:48 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-04-01 11:07:52 INFO::ADDED: 2017MD001 - Kirk - NA - NA
+2019-04-01 11:07:52 INFO::ADDED: 2017MD002 - Leaverton - NA - NA
+2019-04-01 11:07:52 INFO::ADDED: 2017MD003 - Wilson - NA - NA
+2019-04-01 11:07:52 INFO::ADDED: 2017MD004 - Rose - NA - NA
+2019-04-01 11:07:52 INFO::ADDED: 2017PA001 - Zweizig - NA - NA
+2019-04-01 11:07:52 INFO::ADDED: 2017PA002 - Bowman - NA - NA
+2019-04-01 11:07:52 INFO::ADDED: 2017MD005 - Diem - NA - NA
+2019-04-01 11:07:52 INFO::ADDED: 2017MD006 - King - NA - NA
+2019-04-01 11:07:52 INFO::ADDED: 2017MD007 - Schmidt - NA - NA
+2019-04-01 11:07:52 INFO::ADDED: 2017MD008 - Lewis - NA - NA
+2019-04-01 11:07:52 INFO::ADDED: 2017PA003 - Massar - NA - NA
+2019-04-01 11:07:59 WARNING::NC: 2018NC004 - Tyndall - NA - 9109904504: same producer id was attributed to two farmers
+2019-04-01 11:07:59 WARNING::NC: 2018NC004 - Tyndall - NA - 9109904504: same producer id was attributed to two farmers
+2019-04-01 11:07:59 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-04-01 11:07:59 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-04-01 11:07:59 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-04-01 11:07:59 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-04-01 11:08:02 INFO::ADDED: 2018MD001 - Hill - NA - NA
+2019-04-01 11:08:02 INFO::ADDED: 2018PA001 - Rose - NA - NA
+2019-04-01 11:08:02 INFO::ADDED: 2018PA002 - Shaffer - NA - NA
+2019-04-01 11:08:02 INFO::ADDED: 2018MD002 - Richards - NA - NA
+2019-04-01 11:08:06 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-04-01 11:08:06 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-04-01 11:08:06 INFO::MODIFIED: OLD:  2019NC002 - White - NA - NA
+2019-04-01 11:08:06 INFO::MODIFIED: NEW:  2019NC002 - White - asrgrainco@gmail.com - 7043000128
+2019-04-01 11:08:06 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-04-01 11:08:06 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-04-01 11:08:06 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-04-01 11:08:06 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-04-01 11:08:06 WARNING::NC: 2018NC004 - Tyndall - NA - 9109904504: same producer id was attributed to two farmers
+2019-04-01 11:08:06 WARNING::AL: 2019AL007 - Miller - jimmybmiller@gmail.com - 2565049870: same producer id was attributed to two farmers
+2019-04-01 11:12:34 INFO::Table: producer_ids
+2019-04-01 11:12:34 INFO::Time ini: 2019-04-01 11:12:34
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu - 9197707441
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net - 9102841511
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com - 8438417373
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com - 7047918830
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com - 9107346209
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC010 - Cooley - NA - 9103182630
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC010 - Cooley - [null] -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - NA - 9103089800
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - [null] -
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com - 8035304315
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC013 - Davis - NA - 8286990855
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC013 - Davis - [null] -
+2019-04-01 11:12:41 INFO::MODIFIED: OLD:  2017NC014 - Howard - NA - 9103893425
+2019-04-01 11:12:41 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 11:12:50 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 11:12:50 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 11:12:50 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 11:12:50 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 11:12:50 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com - 9194227638
+2019-04-01 11:12:50 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:12:50 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:12:50 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:12:50 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:12:50 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:12:50 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:12:50 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:12:50 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:12:50 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2018NC003 - Lewis - NA - 9102891658
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2018NC003 - Lewis - [null] -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 11:12:51 WARNING::NC: 2018NC004 - Tyndall - NA - : same producer id was attributed to two farmers
+2019-04-01 11:12:51 WARNING::NC: 2018NC004 - Tyndall - NA - : same producer id was attributed to two farmers
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2018NC005 - Kinston - NA - 9192220877
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2018NC005 - Kinston - [null] -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2017NC014 - Howard - [null] -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:12:51 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:12:51 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019NC003 - Howard - NA - 9102891658
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019NC003 - Howard - [null] -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov - 9192220877
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019NC002 - White - asrgrainco@gmail.com - 7043000128
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 11:12:57 WARNING::NC: 2018NC004 - Tyndall - NA - : same producer id was attributed to two farmers
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov - 2024804895
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com - 7065511382
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com - 7065512333
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019GA003 - Iron Horse Farm - gassett@uga.edu - 7707154285
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019AL001 - Grimes - mark_grimes@hma.honda.com - 2564841169
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019AL002 - Johnson - mqj9261@gmail.com - 3345508619
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019AL003 - Kirkland - tkirklandfarm@gmail.com - 3347266594
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019AL004 - Haddock - haddockfarms@comcast.net - 2563664336
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019AL005 - Martin - martinfarm@bellsouth.net - 2565662281
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019AL006 - Lazenby - mitch@lazenbyfarms.com - 3347032126
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 11:12:57 WARNING::AL: 2019AL007 - Miller - jimmybmiller@gmail.com - : same producer id was attributed to two farmers
+2019-04-01 11:12:57 INFO::ADDED: 2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:12:57 INFO::ADDED: 2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:12:57 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:12:57 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:12:57 INFO::ADDED: 2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 11:12:57 INFO::ADDED: 2019DE001 - Wharton - NA - NA
+2019-04-01 11:12:57 INFO::ADDED: 2019DE002 - Hitchens - NA - NA
+2019-04-01 11:12:57 INFO::ADDED: 2019DE003 - Kirk - NA - NA
+2019-04-01 11:12:57 INFO::Table: producer_ids
+2019-04-01 11:12:57 INFO::Time end: 2019-04-01 11:12:57
+2019-04-01 11:14:47 INFO::Table: producer_ids
+2019-04-01 11:14:47 INFO::Time ini: 2019-04-01 11:14:47
+2019-04-01 11:14:50 INFO::ADDED: 2017GA001 - Heatwole - NA - NA
+2019-04-01 11:14:50 INFO::ADDED: 2017GA002 - UGA/Gassett - NA - NA
+2019-04-01 11:14:50 INFO::ADDED: 2017GA003 - Hedrick - NA - NA
+2019-04-01 11:14:53 INFO::ADDED: 2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:14:53 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:14:53 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC006 - Logan - watson.logan@rocketmail.com - NA
+2019-04-01 11:14:53 INFO::ADDED: 2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC010 - Cooley - NA -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC011 - Hendrix - NA -
+2019-04-01 11:14:53 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - NA -
+2019-04-01 11:14:53 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC013 - Davis - NA -
+2019-04-01 11:14:53 INFO::ADDED: 2017NC014 - Howard - NA -
+2019-04-01 11:14:56 INFO::ADDED: 2017MD001 - Kirk - NA - NA
+2019-04-01 11:14:56 INFO::ADDED: 2017MD002 - Leaverton - NA - NA
+2019-04-01 11:14:56 INFO::ADDED: 2017MD003 - Wilson - NA - NA
+2019-04-01 11:14:56 INFO::ADDED: 2017MD004 - Rose - NA - NA
+2019-04-01 11:14:56 INFO::ADDED: 2017PA001 - Zweizig - NA - NA
+2019-04-01 11:14:56 INFO::ADDED: 2017PA002 - Bowman - NA - NA
+2019-04-01 11:14:56 INFO::ADDED: 2017MD005 - Diem - NA - NA
+2019-04-01 11:14:56 INFO::ADDED: 2017MD006 - King - NA - NA
+2019-04-01 11:14:56 INFO::ADDED: 2017MD007 - Schmidt - NA - NA
+2019-04-01 11:14:56 INFO::ADDED: 2017MD008 - Lewis - NA - NA
+2019-04-01 11:14:56 INFO::ADDED: 2017PA003 - Massar - NA - NA
+2019-04-01 11:14:59 INFO::ADDED: 2018GA001 - Nunn - NA - NA
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 11:15:02 INFO::ADDED: 2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:15:02 INFO::ADDED: 2018NC002 - Goldsboro - NA - NA
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:15:02 INFO::ADDED: 2018NC003 - Lewis - NA -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2018NC003 - Lewis - NA -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 11:15:02 INFO::ADDED: 2018NC004 - Tyndall - NA -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - NA -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 11:15:02 INFO::ADDED: 2018NC005 - Kinston - NA -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2018NC005 - Kinston - NA -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC014 - Howard - NA -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:15:02 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:15:02 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:15:05 INFO::ADDED: 2018MD001 - Hill - NA - NA
+2019-04-01 11:15:05 INFO::ADDED: 2018PA001 - Rose - NA - NA
+2019-04-01 11:15:05 INFO::ADDED: 2018PA002 - Shaffer - NA - NA
+2019-04-01 11:15:05 INFO::ADDED: 2018MD002 - Richards - NA - NA
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 11:15:08 INFO::ADDED: 2019NC003 - Howard - NA -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:15:08 INFO::ADDED: 2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 11:15:08 INFO::ADDED: 2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:15:08 INFO::ADDED: 2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 11:15:08 INFO::ADDED: 2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 11:15:08 INFO::ADDED: 2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 11:15:08 INFO::ADDED: 2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 11:15:08 INFO::ADDED: 2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 11:15:08 INFO::ADDED: 2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 11:15:08 INFO::ADDED: 2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 11:15:08 INFO::ADDED: 2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 11:15:08 INFO::ADDED: 2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 11:15:08 INFO::ADDED: 2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 11:15:08 INFO::ADDED: 2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 11:15:08 INFO::ADDED: 2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:15:08 INFO::ADDED: 2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:15:08 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:15:08 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:15:08 INFO::ADDED: 2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 11:15:08 INFO::ADDED: 2019DE001 - Wharton - NA - NA
+2019-04-01 11:15:08 INFO::ADDED: 2019DE002 - Hitchens - NA - NA
+2019-04-01 11:15:08 INFO::ADDED: 2019DE003 - Kirk - NA - NA
+2019-04-01 11:15:09 INFO::Table: producer_ids
+2019-04-01 11:15:09 INFO::Time end: 2019-04-01 11:15:09
+2019-04-01 11:16:04 INFO::Table: producer_ids
+2019-04-01 11:16:04 INFO::Time ini: 2019-04-01 11:16:04
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC010 - Cooley - NA -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC010 - Cooley - [null] -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - NA -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - [null] -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC013 - Davis - NA -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC013 - Davis - [null] -
+2019-04-01 11:16:10 INFO::MODIFIED: OLD:  2017NC014 - Howard - NA -
+2019-04-01 11:16:10 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2018NC003 - Lewis - NA -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 11:16:18 INFO::MODIFIED: OLD:  2018NC003 - Lewis - [null] -
+2019-04-01 11:16:18 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - NA -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2018NC005 - Kinston - NA -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2018NC005 - Kinston - [null] -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2017NC014 - Howard - [null] -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:16:19 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:16:19 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019NC003 - Howard - NA -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019NC003 - Howard - [null] -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 11:16:24 INFO::MODIFIED: OLD:  2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 11:16:24 INFO::MODIFIED: NEW:  2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 11:16:24 INFO::Table: producer_ids
+2019-04-01 11:16:24 INFO::Time end: 2019-04-01 11:16:24
+2019-04-01 13:27:16 INFO::ADDED: HFS - 2017 - GA - Burke - -82.07605 - 32.57136 - NA - NA - 2017GA001 - Waynesboro,GA
+2019-04-01 13:27:16 INFO::ADDED: IHS - 2017 - GA - Oconee - -83.18403 - 33.43547 - NA - NA - 2017GA002 - Watkinsville, GA
+2019-04-01 13:27:16 INFO::ADDED: RHS - 2017 - NC - Catawba - -81.09078 - 35.48405 - NA - NA - 2017GA003 - 1750 33rd St. NE. Hickory,NC 28601
+2019-04-01 13:27:40 INFO::ADDED: LBR - 2017 - NC - Lee - -79.076723 - 35.587695 - NA - NA - 2017NC001 - 640 ragan road sanford, NC
+2019-04-01 13:27:40 INFO::ADDED: DMP - 2017 - NC - Duplin - -78.020722 - 34.743985 - NA - NA - 2017NC002 - 679-671 State Rd 1149, teachey, NC
+2019-04-01 13:27:40 INFO::ADDED: DMK - 2017 - NC - Duplin - -78.040206 - 34.788274 - NA - NA - 2017NC003 - 738 Wells town Road, Teachey, NC
+2019-04-01 13:27:40 INFO::ADDED: DCA - 2017 - NC - Dillon - -79.411129 - 34.464027 - NA - NA - 2017NC004 - 1110 Harllees Bridge Rd Dillon, SC
+2019-04-01 13:27:40 INFO::ADDED: DCB - 2017 - NC - Dillon - -79.40779 - 34.461141 - NA - NA - 2017NC004 - 1110 Harllees Bridge Rd Dillon, SC
+2019-04-01 13:27:40 INFO::ADDED: SCF - 2017 - NC - Stanley - -80.322678 - 35.340182 - NA - NA - 2017NC005 - 21933 Canton Road, Albemarle, NC
+2019-04-01 13:27:40 INFO::ADDED: ULA - 2017 - NC - Union - -80.512806 - 34.860278 - NA - NA - 2017NC006 - 590 Jack Davis Rd, Monroe, NC
+2019-04-01 13:27:40 INFO::ADDED: ULB - 2017 - NC - Union - -80.511473 - 34.861906 - NA - NA - 2017NC006 - 590 Jack Davis Rd, Monroe, NC
+2019-04-01 13:27:41 INFO::ADDED: RPS - 2017 - NC - Robeson - -79.316793 - 34.580045 - NA - NA - 2017NC007 - 1134 Kitchen Street, Rowland, NC
+2019-04-01 13:27:41 INFO::ADDED: RKM - 2017 - NC - Robeson - -79.274829 - 34.535847 - NA - NA - 2017NC008 - 1492 McKinnon-Pate Rd Rowland, NC
+2019-04-01 13:27:41 INFO::ADDED: RAL - 2017 - NC - Robeson - -79.260121 - 34.785462 - NA - NA - 2017NC009 - 6605 preston road, red springs, NC
+2019-04-01 13:27:41 INFO::ADDED: SJC - 2017 - NC - Scotland - -79.403793 - 34.901274 - NA - NA - 2017NC010 - 900 Spring Hill Rd, Wagram, NC
+2019-04-01 13:27:41 INFO::ADDED: HHA - 2017 - NC - Hoke - -79.278458 - 34.952969 - NA - NA - 2017NC011 - 3601 Laurinburg Rd, Raeford, NC
+2019-04-01 13:27:41 INFO::ADDED: HHB - 2017 - NC - Hoke - -79.277886 - 34.933701 - NA - NA - 2017NC011 - 3601 Laurinburg Rd, Raeford, NC
+2019-04-01 13:27:41 INFO::ADDED: CRH - 2017 - NC - Catawba - NA - NA - NA - NA - 2017NC012 - NA
+2019-04-01 13:27:41 INFO::ADDED: BJD - 2017 - NC - Brunswick - NA - NA - NA - NA - 2017NC013 - NA
+2019-04-01 13:27:41 INFO::ADDED: OMH - 2017 - NC - Onslow - -77.559409 - 34.949995 - NA - NA - 2017NC014 - 865 Huffmantown Rd, Richlands, NC
+2019-04-01 13:27:44 INFO::ADDED: CSK - 2017 - MD - Caroline - -75.80757322 - 38.72114594 - NA - NA - 2017MD001 - NA
+2019-04-01 13:27:44 INFO::ADDED: TKA - 2017 - MD - Talbot - -76.08381347 - 39.02395532 - NA - NA - 2017MD002 - NA
+2019-04-01 13:27:44 INFO::ADDED: TKC - 2017 - MD - Talbot - -76.09435597 - 38.79192464 - NA - NA - 2017MD002 - NA
+2019-04-01 13:27:44 INFO::ADDED: TKD - 2017 - MD - Talbot - -76.024215 - 38.67774367 - NA - NA - 2017MD002 - NA
+2019-04-01 13:27:44 INFO::ADDED: TCA - 2017 - MD - Talbot - -76.15480184 - 38.8662618 - NA - NA - 2017MD003 - NA
+2019-04-01 13:27:44 INFO::ADDED: TCB - 2017 - MD - Talbot - -76.17765139 - 38.84377124 - NA - NA - 2017MD003 - NA
+2019-04-01 13:27:44 INFO::ADDED: TCC - 2017 - MD - Talbot - -76.17765139 - 38.84377124 - NA - NA - 2017MD003 - NA
+2019-04-01 13:27:44 INFO::ADDED: BGR - 2017 - MD - Baltimore - -76.55746 - 39.626248 - NA - NA - 2017MD004 - NA
+2019-04-01 13:27:44 INFO::ADDED: SRZ - 2017 - PA - Berks - -75.97918 - 40.514465 - NA - NA - 2017PA001 - NA
+2019-04-01 13:27:44 INFO::ADDED: CLB - 2017 - PA - Chambersburg - -77.661024 - 39.827534 - NA - NA - 2017PA002 - NA
+2019-04-01 13:27:44 INFO::ADDED: CRD - 2017 - MD - Caroline - -75.80059879 - 38.8772192 - NA - NA - 2017MD005 - NA
+2019-04-01 13:27:44 INFO::ADDED: SGK - 2017 - MD - Somerset - -75.684428 - 38.190689 - NA - NA - 2017MD006 - NA
+2019-04-01 13:27:44 INFO::ADDED: QHS - 2017 - MD - Queen Anne's - -75.84911572 - 39.19632893 - NA - NA - 2017MD007 - NA
+2019-04-01 13:27:44 INFO::ADDED: CJL - 2017 - MD - Caroline - -75.846954 - 38.968365 - NA - NA - 2017MD008 - NA
+2019-04-01 13:27:44 INFO::ADDED: SSA - 2017 - PA - Northumberland - -76.655332 - 40.632622 - NA - NA - 2017PA003 - NA
+2019-04-01 13:27:44 INFO::ADDED: SSB - 2017 - PA - Northumberland - -76.78963 - 40.58691 - NA - NA - 2017PA003 - NA
+2019-04-01 13:27:47 INFO::ADDED: LNE - 2018 - GA - Madison/Morgan/Hanes - -83.494097 - 33.571214 - NA - NA - 2018GA001 - NA
+2019-04-01 13:27:47 INFO::ADDED: HFE - 2018 - GA - Burke - -82.07605 - 32.57136 - NA - NA - 2017GA001 - Waynesboro,GA
+2019-04-01 13:27:47 INFO::ADDED: IHE - 2018 - GA - Oconee - -83.18403 - 33.43547 - NA - NA - 2017GA002 - Watkinsville, GA
+2019-04-01 13:27:49 INFO::ADDED: ALR - 2018 - NC - Robeson - -79.279514 - 34.824313 - NA - NA - 2017NC009 - beaver dam road maxton, NC
+2019-04-01 13:27:49 INFO::ADDED: BRL - 2018 - NC - Lee - -79.076068 - 35.587153 - NA - NA - 2017NC001 - 640 ragan road sanford, NC
+2019-04-01 13:27:49 INFO::ADDED: BWA - 2018 - NC - Wake - -78.477816 - 35.74728 - NA - NA - 2018NC001 - 1304 cal erin circle knightdale, NC
+2019-04-01 13:27:49 INFO::ADDED: BWB - 2018 - NC - Wake - -78.498714 - 35.750764 - NA - NA - 2018NC001 - 7846 poole road  raleigh, NC
+2019-04-01 13:27:49 INFO::ADDED: BWC - 2018 - NC - Wake - -78.500238 - 35.74605 - NA - NA - 2018NC001 - 7846 poole road  raleigh, NC
+2019-04-01 13:27:49 INFO::ADDED: CDA - 2018 - NC - Dillon - -79.411582 - 34.46282 - NA - NA - 2017NC004 - 1110 Harllees Bridge Rd Dillon, SC
+2019-04-01 13:27:49 INFO::ADDED: CDB - 2018 - NC - Dillon - -79.41306 - 34.460519 - NA - NA - 2017NC004 - 1110 Harllees Bridge Rd Dillon, SC
+2019-04-01 13:27:49 INFO::ADDED: GBO - 2018 - NC - Wayne - -78.036082 - 35.383359 - NA - NA - 2018NC002 - Cherry Research Farm, Farm Road, Goldsboro, NC
+2019-04-01 13:27:49 INFO::ADDED: FSA - 2018 - NC - Stanley - -80.304996 - 35.316693 - NA - NA - 2017NC005 - 24057 Austin Rd, Albemarle, NC
+2019-04-01 13:27:49 INFO::ADDED: FSB - 2018 - NC - Stanley - -80.293027 - 35.322101 - NA - NA - 2017NC005 - 24676 Ramsey Road, Albemarle, NC
+2019-04-01 13:27:49 INFO::ADDED: HLD - 2018 - NC - Duplin - -77.895657 - 34.991228 - NA - NA - 2018NC003 - 480 Dark Branch Rd Kenansville, NC
+2019-04-01 13:27:49 INFO::ADDED: HLQ - 2018 - NC - Duplin - -77.895169 - 34.992146 - NA - NA - 2018NC003 - 480 Dark Branch Rd Kenansville, NC
+2019-04-01 13:27:49 INFO::ADDED: JYB - 2018 - NC - Sampson - -78.352778 - 35.101898 - NA - NA - 2018NC004 - 3520 basstown road, clinton NC
+2019-04-01 13:27:49 INFO::ADDED: JYS - 2018 - NC - Sampson - -78.352604 - 35.100978 - NA - NA - 2018NC004 - 3520 basstown road, clinton NC
+2019-04-01 13:27:49 INFO::ADDED: KCF - 2018 - NC - Lenoir - -77.648169 - 35.266043 - NA - NA - 2018NC005 - 550 hill farm road, kinston NC
+2019-04-01 13:27:49 INFO::ADDED: KCW - 2018 - NC - Lenoir - -77.647747 - 35.269094 - NA - NA - 2018NC005 - 550 hill farm road, kinston NC
+2019-04-01 13:27:49 INFO::ADDED: KHO - 2018 - NC - Onslow - -77.574411 - 34.958005 - NA - NA - 2017NC014 - 521  barbee road, Richlands, NC
+2019-04-01 13:27:49 INFO::ADDED: KMR - 2018 - NC - Robeson - -79.261367 - 34.518697 - NA - NA - 2017NC008 - collville road, rowland, NC
+2019-04-01 13:27:49 INFO::ADDED: MKD - 2018 - NC - Duplin - -78.152182 - 34.749633 - NA - NA - 2017NC003 - 400 Powell Page Rd, Wallace NC
+2019-04-01 13:27:49 INFO::ADDED: MPD - 2018 - NC - Duplin - -77.92048 - 34.777917 - NA - NA - 2017NC002 - frog pond lane, wallace, NC
+2019-04-01 13:27:49 INFO::ADDED: RHC - 2018 - NC - Catawba - -80.989439 - 35.769044 - NA - NA - 2017NC012 - 320 Old Mountain Road, Statesville, NC
+2019-04-01 13:27:49 INFO::ADDED: SRA - 2018 - NC - Robeson - -79.249887 - 34.53134 - NA - NA - 2017NC007 - kagsville drive, rowland NC
+2019-04-01 13:27:49 INFO::ADDED: SRB - 2018 - NC - Robeson - -79.247895 - 34.531232 - NA - NA - 2017NC007 - 2559 horne road, rowland NC
+2019-04-01 13:34:21 INFO::DELETED: 813 - LNE - 2018 - GA - Madison/Morgan/Hanes - -83.4941 - 33.5712 - NA - NA - 2018GA001 - NA
+2019-04-01 13:34:35 INFO::DELETED: 797 - CSK - 2017 - MD - Caroline - -75.8076 - 38.7211 - NA - NA - 2017MD001 - NA
+2019-04-01 13:34:35 INFO::DELETED: 798 - TKA - 2017 - MD - Talbot - -76.0838 - 39.024 - NA - NA - 2017MD002 - NA
+2019-04-01 13:34:35 INFO::DELETED: 799 - TKC - 2017 - MD - Talbot - -76.0944 - 38.7919 - NA - NA - 2017MD002 - NA
+2019-04-01 13:34:35 INFO::DELETED: 800 - TKD - 2017 - MD - Talbot - -76.0242 - 38.6777 - NA - NA - 2017MD002 - NA
+2019-04-01 13:34:35 INFO::DELETED: 801 - TCA - 2017 - MD - Talbot - -76.1548 - 38.8663 - NA - NA - 2017MD003 - NA
+2019-04-01 13:34:35 INFO::DELETED: 802 - TCB - 2017 - MD - Talbot - -76.1777 - 38.8438 - NA - NA - 2017MD003 - NA
+2019-04-01 13:34:35 INFO::DELETED: 803 - TCC - 2017 - MD - Talbot - -76.1777 - 38.8438 - NA - NA - 2017MD003 - NA
+2019-04-01 13:34:35 INFO::DELETED: 804 - BGR - 2017 - MD - Baltimore - -76.5575 - 39.6262 - NA - NA - 2017MD004 - NA
+2019-04-01 13:34:35 INFO::DELETED: 805 - SRZ - 2017 - PA - Berks - -75.9792 - 40.5145 - NA - NA - 2017PA001 - NA
+2019-04-01 13:34:35 INFO::DELETED: 806 - CLB - 2017 - PA - Chambersburg - -77.661 - 39.8275 - NA - NA - 2017PA002 - NA
+2019-04-01 13:34:35 INFO::DELETED: 807 - CRD - 2017 - MD - Caroline - -75.8006 - 38.8772 - NA - NA - 2017MD005 - NA
+2019-04-01 13:34:35 INFO::DELETED: 808 - SGK - 2017 - MD - Somerset - -75.6844 - 38.1907 - NA - NA - 2017MD006 - NA
+2019-04-01 13:34:35 INFO::DELETED: 809 - QHS - 2017 - MD - Queen Anne's - -75.8491 - 39.1963 - NA - NA - 2017MD007 - NA
+2019-04-01 13:34:35 INFO::DELETED: 810 - CJL - 2017 - MD - Caroline - -75.847 - 38.9684 - NA - NA - 2017MD008 - NA
+2019-04-01 13:34:35 INFO::DELETED: 811 - SSA - 2017 - PA - Northumberland - -76.6553 - 40.6326 - NA - NA - 2017PA003 - NA
+2019-04-01 13:34:35 INFO::DELETED: 812 - SSB - 2017 - PA - Northumberland - -76.7896 - 40.5869 - NA - NA - 2017PA003 - NA
+2019-04-01 13:34:35 INFO::DELETED: 813 - LNE - 2018 - GA - Madison/Morgan/Hanes - -83.4941 - 33.5712 - NA - NA - 2018GA001 - NA
+2019-04-01 13:34:35 INFO::DELETED: 814 - HFE - 2018 - GA - Burke - -82.076 - 32.5714 - NA - NA - 2017GA001 - Waynesboro,GA
+2019-04-01 13:34:35 INFO::DELETED: 815 - IHE - 2018 - GA - Oconee - -83.184 - 33.4355 - NA - NA - 2017GA002 - Watkinsville, GA
+2019-04-01 13:34:35 INFO::DELETED: 816 - ALR - 2018 - NC - Robeson - -79.2795 - 34.8243 - NA - NA - 2017NC009 - beaver dam road maxton, NC
+2019-04-01 13:34:35 INFO::DELETED: 817 - BRL - 2018 - NC - Lee - -79.0761 - 35.5872 - NA - NA - 2017NC001 - 640 ragan road sanford, NC
+2019-04-01 13:34:35 INFO::DELETED: 818 - BWA - 2018 - NC - Wake - -78.4778 - 35.7473 - NA - NA - 2018NC001 - 1304 cal erin circle knightdale, NC
+2019-04-01 13:34:35 INFO::DELETED: 819 - BWB - 2018 - NC - Wake - -78.4987 - 35.7508 - NA - NA - 2018NC001 - 7846 poole road  raleigh, NC
+2019-04-01 13:34:35 INFO::DELETED: 820 - BWC - 2018 - NC - Wake - -78.5002 - 35.7461 - NA - NA - 2018NC001 - 7846 poole road  raleigh, NC
+2019-04-01 13:34:35 INFO::DELETED: 821 - CDA - 2018 - NC - Dillon - -79.4116 - 34.4628 - NA - NA - 2017NC004 - 1110 Harllees Bridge Rd Dillon, SC
+2019-04-01 13:34:35 INFO::DELETED: 822 - CDB - 2018 - NC - Dillon - -79.4131 - 34.4605 - NA - NA - 2017NC004 - 1110 Harllees Bridge Rd Dillon, SC
+2019-04-01 13:34:35 INFO::DELETED: 823 - GBO - 2018 - NC - Wayne - -78.0361 - 35.3834 - NA - NA - 2018NC002 - Cherry Research Farm, Farm Road, Goldsboro, NC
+2019-04-01 13:34:35 INFO::DELETED: 824 - FSA - 2018 - NC - Stanley - -80.305 - 35.3167 - NA - NA - 2017NC005 - 24057 Austin Rd, Albemarle, NC
+2019-04-01 13:34:35 INFO::DELETED: 825 - FSB - 2018 - NC - Stanley - -80.293 - 35.3221 - NA - NA - 2017NC005 - 24676 Ramsey Road, Albemarle, NC
+2019-04-01 13:34:35 INFO::DELETED: 826 - HLD - 2018 - NC - Duplin - -77.8957 - 34.9912 - NA - NA - 2018NC003 - 480 Dark Branch Rd Kenansville, NC
+2019-04-01 13:34:35 INFO::DELETED: 827 - HLQ - 2018 - NC - Duplin - -77.8952 - 34.9921 - NA - NA - 2018NC003 - 480 Dark Branch Rd Kenansville, NC
+2019-04-01 13:34:35 INFO::DELETED: 828 - JYB - 2018 - NC - Sampson - -78.3528 - 35.1019 - NA - NA - 2018NC004 - 3520 basstown road, clinton NC
+2019-04-01 13:34:35 INFO::DELETED: 829 - JYS - 2018 - NC - Sampson - -78.3526 - 35.101 - NA - NA - 2018NC004 - 3520 basstown road, clinton NC
+2019-04-01 13:34:35 INFO::DELETED: 830 - KCF - 2018 - NC - Lenoir - -77.6482 - 35.266 - NA - NA - 2018NC005 - 550 hill farm road, kinston NC
+2019-04-01 13:34:35 INFO::DELETED: 831 - KCW - 2018 - NC - Lenoir - -77.6477 - 35.2691 - NA - NA - 2018NC005 - 550 hill farm road, kinston NC
+2019-04-01 13:34:35 INFO::DELETED: 832 - KHO - 2018 - NC - Onslow - -77.5744 - 34.958 - NA - NA - 2017NC014 - 521  barbee road, Richlands, NC
+2019-04-01 13:34:35 INFO::DELETED: 833 - KMR - 2018 - NC - Robeson - -79.2614 - 34.5187 - NA - NA - 2017NC008 - collville road, rowland, NC
+2019-04-01 13:34:35 INFO::DELETED: 834 - MKD - 2018 - NC - Duplin - -78.1522 - 34.7496 - NA - NA - 2017NC003 - 400 Powell Page Rd, Wallace NC
+2019-04-01 13:34:35 INFO::DELETED: 835 - MPD - 2018 - NC - Duplin - -77.9205 - 34.7779 - NA - NA - 2017NC002 - frog pond lane, wallace, NC
+2019-04-01 13:34:35 INFO::DELETED: 836 - RHC - 2018 - NC - Catawba - -80.9894 - 35.769 - NA - NA - 2017NC012 - 320 Old Mountain Road, Statesville, NC
+2019-04-01 13:34:35 INFO::DELETED: 837 - SRA - 2018 - NC - Robeson - -79.2499 - 34.5313 - NA - NA - 2017NC007 - kagsville drive, rowland NC
+2019-04-01 13:34:35 INFO::DELETED: 838 - SRB - 2018 - NC - Robeson - -79.2479 - 34.5312 - NA - NA - 2017NC007 - 2559 horne road, rowland NC
+2019-04-01 13:36:39 INFO::Table: producer_ids
+2019-04-01 13:36:39 INFO::Time ini: 2019-04-01 13:36:39
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC010 - Cooley - NA -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC010 - Cooley - [null] -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - NA -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - [null] -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 13:36:47 INFO::MODIFIED: OLD:  2017NC013 - Davis - NA -
+2019-04-01 13:36:47 INFO::MODIFIED: NEW:  2017NC013 - Davis - [null] -
+2019-04-01 13:36:48 INFO::MODIFIED: OLD:  2017NC014 - Howard - NA -
+2019-04-01 13:36:48 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2018NC003 - Lewis - NA -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2018NC003 - Lewis - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - NA -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2018NC005 - Kinston - NA -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2018NC005 - Kinston - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC014 - Howard - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:36:57 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:36:57 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019NC003 - Howard - NA -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019NC003 - Howard - [null] -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:37:04 INFO::MODIFIED: OLD:  2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 13:37:04 INFO::MODIFIED: NEW:  2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 13:37:05 INFO::Table: producer_ids
+2019-04-01 13:37:05 INFO::Time end: 2019-04-01 13:37:05
+2019-04-01 13:37:05 INFO::Table: site_information
+2019-04-01 13:37:05 INFO::Time ini: 2019-04-01 13:37:05
+2019-04-01 13:37:13 INFO::ADDED: CSK - 2017 - MD - Caroline - -75.80757322 - 38.72114594 - NA - NA - 2017MD001 - NA
+2019-04-01 13:37:13 INFO::ADDED: TKA - 2017 - MD - Talbot - -76.08381347 - 39.02395532 - NA - NA - 2017MD002 - NA
+2019-04-01 13:37:13 INFO::ADDED: TKC - 2017 - MD - Talbot - -76.09435597 - 38.79192464 - NA - NA - 2017MD002 - NA
+2019-04-01 13:37:13 INFO::ADDED: TKD - 2017 - MD - Talbot - -76.024215 - 38.67774367 - NA - NA - 2017MD002 - NA
+2019-04-01 13:37:13 INFO::ADDED: TCA - 2017 - MD - Talbot - -76.15480184 - 38.8662618 - NA - NA - 2017MD003 - NA
+2019-04-01 13:37:13 INFO::ADDED: TCB - 2017 - MD - Talbot - -76.17765139 - 38.84377124 - NA - NA - 2017MD003 - NA
+2019-04-01 13:37:13 INFO::ADDED: TCC - 2017 - MD - Talbot - -76.17765139 - 38.84377124 - NA - NA - 2017MD003 - NA
+2019-04-01 13:37:13 INFO::ADDED: BGR - 2017 - MD - Baltimore - -76.55746 - 39.626248 - NA - NA - 2017MD004 - NA
+2019-04-01 13:37:13 INFO::ADDED: SRZ - 2017 - PA - Berks - -75.97918 - 40.514465 - NA - NA - 2017PA001 - NA
+2019-04-01 13:37:13 INFO::ADDED: CLB - 2017 - PA - Chambersburg - -77.661024 - 39.827534 - NA - NA - 2017PA002 - NA
+2019-04-01 13:37:13 INFO::ADDED: CRD - 2017 - MD - Caroline - -75.80059879 - 38.8772192 - NA - NA - 2017MD005 - NA
+2019-04-01 13:37:13 INFO::ADDED: SGK - 2017 - MD - Somerset - -75.684428 - 38.190689 - NA - NA - 2017MD006 - NA
+2019-04-01 13:37:13 INFO::ADDED: QHS - 2017 - MD - Queen Anne's - -75.84911572 - 39.19632893 - NA - NA - 2017MD007 - NA
+2019-04-01 13:37:13 INFO::ADDED: CJL - 2017 - MD - Caroline - -75.846954 - 38.968365 - NA - NA - 2017MD008 - NA
+2019-04-01 13:37:13 INFO::ADDED: SSA - 2017 - PA - Northumberland - -76.655332 - 40.632622 - NA - NA - 2017PA003 - NA
+2019-04-01 13:37:13 INFO::ADDED: SSB - 2017 - PA - Northumberland - -76.78963 - 40.58691 - NA - NA - 2017PA003 - NA
+2019-04-01 13:37:16 INFO::ADDED: LNE - 2018 - GA - Madison/Morgan/Hanes - -83.494097 - 33.571214 - NA - NA - 2018GA001 - NA
+2019-04-01 13:37:16 INFO::ADDED: HFE - 2018 - GA - Burke - -82.07605 - 32.57136 - NA - NA - 2017GA001 - Waynesboro,GA
+2019-04-01 13:37:16 INFO::ADDED: IHE - 2018 - GA - Oconee - -83.18403 - 33.43547 - NA - NA - 2017GA002 - Watkinsville, GA
+2019-04-01 13:37:19 INFO::ADDED: ALR - 2018 - NC - Robeson - -79.279514 - 34.824313 - NA - NA - 2017NC009 - beaver dam road maxton, NC
+2019-04-01 13:37:19 INFO::ADDED: BRL - 2018 - NC - Lee - -79.076068 - 35.587153 - NA - NA - 2017NC001 - 640 ragan road sanford, NC
+2019-04-01 13:37:19 INFO::ADDED: BWA - 2018 - NC - Wake - -78.477816 - 35.74728 - NA - NA - 2018NC001 - 1304 cal erin circle knightdale, NC
+2019-04-01 13:37:19 INFO::ADDED: BWB - 2018 - NC - Wake - -78.498714 - 35.750764 - NA - NA - 2018NC001 - 7846 poole road  raleigh, NC
+2019-04-01 13:37:19 INFO::ADDED: BWC - 2018 - NC - Wake - -78.500238 - 35.74605 - NA - NA - 2018NC001 - 7846 poole road  raleigh, NC
+2019-04-01 13:37:19 INFO::ADDED: CDA - 2018 - NC - Dillon - -79.411582 - 34.46282 - NA - NA - 2017NC004 - 1110 Harllees Bridge Rd Dillon, SC
+2019-04-01 13:37:19 INFO::ADDED: CDB - 2018 - NC - Dillon - -79.41306 - 34.460519 - NA - NA - 2017NC004 - 1110 Harllees Bridge Rd Dillon, SC
+2019-04-01 13:37:19 INFO::ADDED: GBO - 2018 - NC - Wayne - -78.036082 - 35.383359 - NA - NA - 2018NC002 - Cherry Research Farm, Farm Road, Goldsboro, NC
+2019-04-01 13:37:19 INFO::ADDED: FSA - 2018 - NC - Stanley - -80.304996 - 35.316693 - NA - NA - 2017NC005 - 24057 Austin Rd, Albemarle, NC
+2019-04-01 13:37:19 INFO::ADDED: FSB - 2018 - NC - Stanley - -80.293027 - 35.322101 - NA - NA - 2017NC005 - 24676 Ramsey Road, Albemarle, NC
+2019-04-01 13:37:19 INFO::ADDED: HLD - 2018 - NC - Duplin - -77.895657 - 34.991228 - NA - NA - 2018NC003 - 480 Dark Branch Rd Kenansville, NC
+2019-04-01 13:37:19 INFO::ADDED: HLQ - 2018 - NC - Duplin - -77.895169 - 34.992146 - NA - NA - 2018NC003 - 480 Dark Branch Rd Kenansville, NC
+2019-04-01 13:37:19 INFO::ADDED: JYB - 2018 - NC - Sampson - -78.352778 - 35.101898 - NA - NA - 2018NC004 - 3520 basstown road, clinton NC
+2019-04-01 13:37:19 INFO::ADDED: JYS - 2018 - NC - Sampson - -78.352604 - 35.100978 - NA - NA - 2018NC004 - 3520 basstown road, clinton NC
+2019-04-01 13:37:19 INFO::ADDED: KCF - 2018 - NC - Lenoir - -77.648169 - 35.266043 - NA - NA - 2018NC005 - 550 hill farm road, kinston NC
+2019-04-01 13:37:19 INFO::ADDED: KCW - 2018 - NC - Lenoir - -77.647747 - 35.269094 - NA - NA - 2018NC005 - 550 hill farm road, kinston NC
+2019-04-01 13:37:19 INFO::ADDED: KHO - 2018 - NC - Onslow - -77.574411 - 34.958005 - NA - NA - 2017NC014 - 521  barbee road, Richlands, NC
+2019-04-01 13:37:19 INFO::ADDED: KMR - 2018 - NC - Robeson - -79.261367 - 34.518697 - NA - NA - 2017NC008 - collville road, rowland, NC
+2019-04-01 13:37:19 INFO::ADDED: MKD - 2018 - NC - Duplin - -78.152182 - 34.749633 - NA - NA - 2017NC003 - 400 Powell Page Rd, Wallace NC
+2019-04-01 13:37:19 INFO::ADDED: MPD - 2018 - NC - Duplin - -77.92048 - 34.777917 - NA - NA - 2017NC002 - frog pond lane, wallace, NC
+2019-04-01 13:37:19 INFO::ADDED: RHC - 2018 - NC - Catawba - -80.989439 - 35.769044 - NA - NA - 2017NC012 - 320 Old Mountain Road, Statesville, NC
+2019-04-01 13:37:19 INFO::ADDED: SRA - 2018 - NC - Robeson - -79.249887 - 34.53134 - NA - NA - 2017NC007 - kagsville drive, rowland NC
+2019-04-01 13:37:19 INFO::ADDED: SRB - 2018 - NC - Robeson - -79.247895 - 34.531232 - NA - NA - 2017NC007 - 2559 horne road, rowland NC
+2019-04-01 13:37:22 INFO::ADDED: CLA - 2018 - PA - Chambersburg - -77.67400234 - 39.87273227 - NA - NA - 2017PA002 - NA
+2019-04-01 13:37:22 INFO::ADDED: KTA - 2018 - MD - Kent - -76.2403601 - 39.125385 - NA - NA - 2018MD001 - NA
+2019-04-01 13:37:22 INFO::ADDED: KTB - 2018 - MD - Kent - -76.17262552 - 39.25532687 - NA - NA - 2018MD001 - NA
+2019-04-01 13:37:22 INFO::ADDED: KTC - 2018 - MD - Kent - -76.08021004 - 39.27349797 - NA - NA - 2018MD001 - NA
+2019-04-01 13:37:22 INFO::ADDED: KTD - 2018 - MD - Kent - -75.85328473 - 39.40630102 - NA - NA - 2018MD001 - NA
+2019-04-01 13:37:22 INFO::ADDED: KTE - 2018 - MD - Kent - -75.8133409 - 39.33807333 - NA - NA - 2018MD001 - NA
+2019-04-01 13:37:22 INFO::ADDED: CSA - 2018 - MD - Caroline - -75.77186693 - 38.75826372 - NA - NA - 2017MD001 - NA
+2019-04-01 13:37:22 INFO::ADDED: CJA - 2018 - MD - Caroline - -75.84790996 - 38.97020302 - NA - NA - 2017MD008 - NA
+2019-04-01 13:37:22 INFO::ADDED: BGS - 2018 - PA - York - -76.369832 - 39.737159 - NA - NA - 2018PA001 - NA
+2019-04-01 13:37:22 INFO::ADDED: NAS - 2018 - PA - Northumberland - -76.80179762 - 40.65946514 - NA - NA - 2018PA002 - NA
+2019-04-01 13:37:22 INFO::ADDED: QAS - 2018 - MD - Queen Anne's - -75.83162012 - 39.21961574 - NA - NA - 2017MD007 - NA
+2019-04-01 13:37:22 INFO::ADDED: TCD - 2018 - MD - Talbot - -76.17949826 - 38.79532693 - NA - NA - 2017MD003 - NA
+2019-04-01 13:37:22 INFO::ADDED: TCE - 2018 - MD - Talbot - -76.181742 - 38.794289 - NA - NA - 2017MD003 - NA
+2019-04-01 13:37:22 INFO::ADDED: TCF - 2018 - MD - Talbot - -76.1371187 - 38.82228204 - NA - NA - 2017MD003 - NA
+2019-04-01 13:37:22 INFO::ADDED: WYE - 2018 - MD - Queen Anne's - -76.143082 - 38.914511 - NA - NA - 2018MD002 - NA
+2019-04-01 13:37:22 INFO::ADDED: SRY - 2018 - PA - Berks - -75.988178 - 40.515337 - NA - NA - 2017PA001 - NA
+2019-04-01 13:37:24 INFO::ADDED: DAA - 2019 - NC - Duplin - -78.151764 - 34.747458 - NA - NA - 2017NC003 - 352 powell page road, wallace, NC
+2019-04-01 13:37:24 INFO::ADDED: DAB - 2019 - NC - Duplin - -77.894249 - 34.990803 - strips - NA - 2019NC003 - 480 dark branch road, Kenansville, NC
+2019-04-01 13:37:24 INFO::ADDED: DAD - 2019 - NC - Duplin - -78.164523 - 34.758483 - NA - NA - 2017NC002 - 685 powell page road, wallace NC
+2019-04-01 13:37:24 INFO::ADDED: DAE - 2019 - NC - Duplin - -78.169009 - 34.762667 - NA - NA - 2017NC002 - 585 powell page road , wallace, NC
+2019-04-01 13:37:24 INFO::ADDED: LAB - 2019 - NC - Lenoir - -77.613702 - 35.272307 - NA - NA - 2019NC001 - caswell research station, kinston, NC (mathus field)
+2019-04-01 13:37:24 INFO::ADDED: LAC - 2019 - NC - Lenoir - -77.655748 - 35.269181 - NA - NA - 2019NC001 - 1670 smithfield way, kinston, NC
+2019-04-01 13:37:24 INFO::ADDED: LSS - 2019 - NC - Cleveland - -81.651528 - 35.359444 - strips - Tom Dyson 
+tom_dyson@ncsu.edu - 2019NC002 - 1512 state road 1351, shelby NC
+2019-04-01 13:37:24 INFO::ADDED: RAB - 2019 - NC - Robeson - -79.250342 - 34.531326 - NA - Mac Malloy 
+(910) 237-5187 - 2017NC007 - 736 horne road, rowland
+2019-04-01 13:37:24 INFO::ADDED: RAD - 2019 - NC - Robeson - -79.278694 - 34.534418 - NA - Mac Malloy 
+(910) 237-5187 - 2017NC008 - 1492 mckinnon-pate road, Rowland, NC
+2019-04-01 13:37:24 INFO::ADDED: SAA - 2019 - NC - Robeson - -79.27502 - 34.535915 - NA - Mac Malloy 
+(910) 237-5187 - 2017NC008 - 1492 mckinnon-pate, rowland, NC
+2019-04-01 13:37:24 INFO::ADDED: SAB - 2019 - NC - Sampson - -78.352863 - 35.101031 - strips - NA - 2018NC004 - 3520 basstown road
+2019-04-01 13:37:24 INFO::ADDED: STA - 2019 - NC - Stanly - -80.35682 - 35.326738 - NA - Dustin Adcock 
+(704) 989-9190 - 2017NC005 - 25039 Millingport Road, Locust, NC
+2019-04-01 13:37:24 INFO::ADDED: STC - 2019 - NC - Stanly - -80.000029 - 35.162919 - NA - Nathan Lowder 
+(202) 480-4895 - 2019NC004 - pankey drive, mount gilead, NC
+2019-04-01 13:37:24 INFO::ADDED: STD - 2019 - NC - Stanly - -80.104162 - 35.173557 - NA - Nathan Lowder 
+(202) 480-4895 - 2019NC004 - 6523 roberts loop road, norwood NC
+2019-04-01 13:37:24 INFO::ADDED: KPB - 2019 - GA - Burke - NA - NA - NA - Peyton Sapp 706 551 1670 - 2019GA001 - Hwy 80 mile 21
+2019-04-01 13:37:25 INFO::ADDED: NUY - 2019 - GA - Burke - NA - NA - NA - Peyton Sapp 706 551 1670 - 2019GA001 - Hwy 24 plantation
+2019-04-01 13:37:25 INFO::ADDED: TUK - 2019 - GA - Burke - NA - NA - NA - Peyton Sapp 706 551 1670 - 2019GA002 - Old Wadley Road
+2019-04-01 13:37:25 INFO::ADDED: YHO - 2019 - GA - Buke - NA - NA - NA - Peyton Sapp 706 551 1670 - 2019GA002 - Old Wadley Road
+2019-04-01 13:37:25 INFO::ADDED: NTL - 2019 - GA - Oconee - NA - NA - NA - NA - 2019GA003 - Hwy 15, Greensboro
+2019-04-01 13:37:25 INFO::ADDED: TRR - 2019 - AL - Cherokee - -85.638599 - 34.092423 - NA - Philip Abney philip.abney@al.usda.gov 256-927-8732 - 2019AL001 - 518 County Road 388, Centre, AL
+2019-04-01 13:37:25 INFO::ADDED: BNF - 2019 - AL - Dale - -85.418835 - 31.397074 - NA - Adam Sconyers adam.sconyers@al.usda.gov 334-432-0261 - 2019AL002 - County Road 73, Headland, AL
+2019-04-01 13:37:25 INFO::ADDED: DNY - 2019 - AL - Dale - -85.47933 - 31.35229 - NA - Adam Sconyers adam.sconyers@al.usda.gov 334-432-0261 - 2019AL003 - 4601 County Road 162, Midland City, AL
+2019-04-01 13:37:25 INFO::ADDED: IOT - 2019 - AL - Lauderdale - -87.796683 - 34.800008 - NA - Renea Dyer renea.dyer@al.usda.gov 256-262-2538 - 2019AL004 - 2558 County Road 4, Florence, AL
+2019-04-01 13:37:25 INFO::ADDED: VOT - 2019 - AL - Lawrence - -87.282253 - 34.69282 - NA - Kathy Gotcher kathy.gotcher@al.usda.gov 256-280-5029 - 2019AL005 - NA
+2019-04-01 13:37:25 INFO::ADDED: PCN - 2019 - AL - Lee - -85.418127 - 32.422442 - NA - Patrick Rohling patrick.rohling@al.usda.gov 334-321-1900 - 2019AL006 - 772 County Road 160, Opelika, AL
+2019-04-01 13:37:25 INFO::ADDED: RFV - 2019 - AL - Blount - -86.377559 - 34.103019 - NA - Brad Meyer bradm@agric-afc.com 256-565-9072 - 2019AL007 - 8109 County Hwy 36, Altoona, AL
+2019-04-01 13:37:25 INFO::ADDED: ZAZ - 2019 - MD - Kent - NA - NA - NA - NA - 2018MD001 - NA
+2019-04-01 13:37:25 INFO::ADDED: UUJ - 2019 - MD - Kent - NA - NA - NA - NA - 2018MD001 - NA
+2019-04-01 13:37:25 INFO::ADDED: VVR - 2019 - MD - Kent - NA - NA - NA - NA - 2018MD001 - NA
+2019-04-01 13:37:25 INFO::ADDED: VWZ - 2019 - MD - Kent - NA - NA - NA - NA - 2018MD001 - NA
+2019-04-01 13:37:25 INFO::ADDED: MJU - 2019 - MD - Kent - NA - NA - NA - NA - 2018MD001 - NA
+2019-04-01 13:37:25 INFO::ADDED: WEU - 2019 - MD - Queen Anne's - NA - NA - NA - NA - 2017MD007 - NA
+2019-04-01 13:37:25 INFO::ADDED: RGE - 2019 - MD - Queen Anne's - NA - NA - NA - NA - 2017MD007 - NA
+2019-04-01 13:37:25 INFO::ADDED: JGO - 2019 - VA - Accomack - -75.8270492 - 37.588682 - NA - NA - 2019VA001 - 33446 Research Drive, Painter, VA 23420
+2019-04-01 13:37:25 INFO::ADDED: AAZ - 2019 - VA - Accomack - -75.8232669 - 37.5896992 - NA - NA - 2019VA001 - 33446 Research Drive, Painter, VA 23420
+2019-04-01 13:37:25 INFO::ADDED: BET - 2019 - VA - Accomack - -75.8227309 - 37.5860437 - NA - NA - 2019VA001 - 33446 Research Drive, Painter, VA 23420
+2019-04-01 13:37:25 INFO::ADDED: PQE - 2019 - VA - Essex - -76.8111 - 37.8929 - NA - NA - 2019VA002 - 3023 River Stretch Road, Dunnsville, VA 22454
+2019-04-01 13:37:25 INFO::ADDED: POT - 2019 - VA - Essex - -76.81 - 37.8945 - NA - NA - 2019VA002 - 3023 River Stretch Road, Dunnsville, VA 22454
+2019-04-01 13:37:25 INFO::ADDED: BVF - 2019 - VA - Essex - -76.8032 - 37.8884 - NA - NA - 2019VA002 - 2354-3098 River Stretch Road, Dunnsville, VA 22454
+2019-04-01 13:37:25 INFO::ADDED: HOP - 2019 - VA - Dinwiddie - -77.612917 - 37.022556 - NA - Mike Parrish; mparrish@vt.edu - 2019VA003 - 16533 Eppes Road, Dewitt, VA
+2019-04-01 13:37:25 INFO::ADDED: ABE - 2019 - DE - Sussex - -75.412886 - 38.541369 - NA - NA - 2019DE001 - NA
+2019-04-01 13:37:25 INFO::ADDED: SGT - 2019 - DE - Sussex - -75.443937 - 38.521275 - NA - NA - 2019DE002 - NA
+2019-04-01 13:37:25 INFO::ADDED: DRU - 2019 - DE - Sussex - -75.496267 - 38.590359 - NA - NA - 2019DE003 - NA
+2019-04-01 13:37:25 INFO::Table: site_information
+2019-04-01 13:37:25 INFO::Time end: 2019-04-01 13:37:25
+2019-04-01 13:40:19 INFO::Table: producer_ids
+2019-04-01 13:40:19 INFO::Time ini: 2019-04-01 13:40:19
+2019-04-01 13:40:24 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC010 - Cooley - NA -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC010 - Cooley - [null] -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - NA -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - [null] -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC013 - Davis - NA -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC013 - Davis - [null] -
+2019-04-01 13:40:25 INFO::MODIFIED: OLD:  2017NC014 - Howard - NA -
+2019-04-01 13:40:25 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2018NC003 - Lewis - NA -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2018NC003 - Lewis - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - NA -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2018NC005 - Kinston - NA -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2018NC005 - Kinston - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC014 - Howard - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:40:33 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:40:33 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019NC003 - Howard - NA -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019NC003 - Howard - [null] -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 13:40:40 INFO::MODIFIED: OLD:  2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 13:40:40 INFO::MODIFIED: NEW:  2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 13:40:40 INFO::Table: producer_ids
+2019-04-01 13:40:40 INFO::Time end: 2019-04-01 13:40:40
+2019-04-01 13:40:40 INFO::Table: site_information
+2019-04-01 13:40:40 INFO::Time ini: 2019-04-01 13:40:40
+2019-04-01 13:40:54 INFO::MODIFIED: OLD:  862 - BWC - 2018 - NC - Wake - -78.5002 - 35.7461 - NA - NA - 2018NC001 - 7846 poole road  raleigh, NC
+2019-04-01 13:40:54 INFO::MODIFIED: NEW:  BWC - 2018 - NC - Wake - -78.5002 - 35.746 - [null] - [null] - 2018NC001 - 7846 poole road  raleigh, NC
+2019-04-01 13:41:00 INFO::MODIFIED: OLD:  920 - VOT - 2019 - AL - Lawrence - -87.2822 - 34.6928 - NA - Kathy Gotcher kathy.gotcher@al.usda.gov 256-280-5029 - 2019AL005 - NA
+2019-04-01 13:41:00 INFO::MODIFIED: NEW:  VOT - 2019 - AL - Lawrence - -87.2823 - 34.6928 - [null] - Kathy Gotcher kathy.gotcher@al.usda.gov 256-280-5029 - 2019AL005 - [null]
+2019-04-01 13:41:00 INFO::Table: site_information
+2019-04-01 13:41:00 INFO::Time end: 2019-04-01 13:41:00
+2019-04-01 13:42:46 INFO::Table: cc_mixture
+2019-04-01 13:42:46 INFO::Time ini: 2019-04-01 13:42:46
+2019-04-01 13:46:16 INFO::ADDED: HFS - Cereal Rye - 25
+2019-04-01 13:46:16 INFO::ADDED: HFS - Oats - 25
+2019-04-01 13:46:16 INFO::ADDED: HFS - Hairy Vetch - 4
+2019-04-01 13:46:16 INFO::ADDED: HFS - Crimson Clover - 5
+2019-04-01 13:46:16 INFO::ADDED: HFS - Radish/Turnip - 2
+2019-04-01 13:46:16 INFO::ADDED: IHS - Oats - 37
+2019-04-01 13:46:16 INFO::ADDED: IHS - Crimson Clover - 13
+2019-04-01 13:46:16 INFO::ADDED: RHS - Cereal Rye - 25
+2019-04-01 13:46:16 INFO::ADDED: RHS - Triticale - 10
+2019-04-01 13:46:16 INFO::ADDED: RHS - Oats - 7
+2019-04-01 13:46:16 INFO::ADDED: RHS - Winter Peas - 8
+2019-04-01 13:46:16 INFO::ADDED: RHS - Woolypod Vetch - 5
+2019-04-01 13:46:16 INFO::ADDED: RHS - Crimson Clover - 5
+2019-04-01 13:46:25 INFO::ADDED: DCA - Cereal Rye - NA
+2019-04-01 13:46:25 INFO::ADDED: DCA - Unknown Clover spp - NA
+2019-04-01 13:46:25 INFO::ADDED: DCA - Triticale - NA
+2019-04-01 13:46:25 INFO::ADDED: DCA - Unknown Vetch spp - NA
+2019-04-01 13:46:25 INFO::ADDED: DCB - Cereal Rye - NA
+2019-04-01 13:46:25 INFO::ADDED: DCB - Unknown Clover spp - NA
+2019-04-01 13:46:25 INFO::ADDED: DCB - Triticale - NA
+2019-04-01 13:46:25 INFO::ADDED: DCB - Unknown Vetch spp - NA
+2019-04-01 13:46:25 INFO::ADDED: DMK - Cereal Rye - NA
+2019-04-01 13:46:25 INFO::ADDED: DMP - Cereal Rye - NA
+2019-04-01 13:46:25 INFO::ADDED: DMP - Radish/Turnip - NA
+2019-04-01 13:46:25 INFO::ADDED: LBR - Annual Ryegrass - NA
+2019-04-01 13:46:25 INFO::ADDED: RAL - Oats - NA
+2019-04-01 13:46:25 INFO::ADDED: RAL - Radish/Turnip - NA
+2019-04-01 13:46:25 INFO::ADDED: RAL - Unknown Clover spp - NA
+2019-04-01 13:46:25 INFO::ADDED: RKM - Cereal Rye - NA
+2019-04-01 13:46:25 INFO::ADDED: RKM - Triticale - NA
+2019-04-01 13:46:25 INFO::ADDED: RKM - Rape/Canola - NA
+2019-04-01 13:46:25 INFO::ADDED: RKM - Unknown Clover spp - NA
+2019-04-01 13:46:25 INFO::ADDED: RPS - Oats - NA
+2019-04-01 13:46:25 INFO::ADDED: RPS - Radish/Turnip - NA
+2019-04-01 13:46:25 INFO::ADDED: RPS - Unknown Clover spp - NA
+2019-04-01 13:46:25 INFO::ADDED: SCF - Triticale - NA
+2019-04-01 13:46:25 INFO::ADDED: SJC - Rape/Canola - NA
+2019-04-01 13:46:25 INFO::ADDED: ULA - Cereal Rye - NA
+2019-04-01 13:46:25 INFO::ADDED: ULA - Radish/Turnip - NA
+2019-04-01 13:46:25 INFO::ADDED: ULA - Unknown Clover spp - NA
+2019-04-01 13:46:25 INFO::ADDED: ULA - Unknown Vetch spp - NA
+2019-04-01 13:46:25 INFO::ADDED: ULB - Cereal Rye - NA
+2019-04-01 13:46:25 INFO::ADDED: ULB - Radish/Turnip - NA
+2019-04-01 13:46:25 INFO::ADDED: ULB - Unknown Clover spp - NA
+2019-04-01 13:46:25 INFO::ADDED: ULB - Unknown Vetch spp - NA
+2019-04-01 13:46:25 INFO::ADDED: ULB - Annual Ryegrass - NA
+2019-04-01 13:49:49 INFO::Table: cc_mixture
+2019-04-01 13:49:49 INFO::Time ini: 2019-04-01 13:49:49
+2019-04-01 13:53:19 INFO::ADDED: HFE - Cereal Rye - 50
+2019-04-01 13:53:19 INFO::ADDED: HFE - Crimson Clover - 5
+2019-04-01 13:53:19 INFO::ADDED: HFE - Hairy Vetch - 3
+2019-04-01 13:53:19 INFO::ADDED: HFE - Kale - 1
+2019-04-01 13:53:20 INFO::ADDED: HFE - Radish/Turnip - 2
+2019-04-01 13:53:20 INFO::ADDED: IHE - Oats - 50
+2019-04-01 13:53:20 INFO::ADDED: IHE - Crimson Clover - 12
+2019-04-01 13:53:23 INFO::ADDED: ALR - Oats - NA
+2019-04-01 13:53:23 INFO::ADDED: ALR - Unknown Clover spp - NA
+2019-04-01 13:53:23 INFO::ADDED: ALR - Radish/Turnip - NA
+2019-04-01 13:53:23 INFO::ADDED: BRL - Annual Ryegrass - NA
+2019-04-01 13:53:23 INFO::ADDED: BWA - Triticale - NA
+2019-04-01 13:53:23 INFO::ADDED: BWA - Radish/Turnip - NA
+2019-04-01 13:53:23 INFO::ADDED: BWA - Oats - NA
+2019-04-01 13:53:23 INFO::ADDED: BWA - Unknown Clover spp - NA
+2019-04-01 13:53:23 INFO::ADDED: BWA - Cereal Rye - NA
+2019-04-01 13:53:23 INFO::ADDED: BWB - Triticale - NA
+2019-04-01 13:53:23 INFO::ADDED: BWB - Radish/Turnip - NA
+2019-04-01 13:53:23 INFO::ADDED: BWB - Oats - NA
+2019-04-01 13:53:23 INFO::ADDED: BWB - Unknown Clover spp - NA
+2019-04-01 13:53:23 INFO::ADDED: BWB - Cereal Rye - NA
+2019-04-01 13:53:23 INFO::ADDED: BWC - Triticale - NA
+2019-04-01 13:53:23 INFO::ADDED: BWC - Radish/Turnip - NA
+2019-04-01 13:53:23 INFO::ADDED: BWC - Oats - NA
+2019-04-01 13:53:23 INFO::ADDED: BWC - Unknown Clover spp - NA
+2019-04-01 13:53:23 INFO::ADDED: BWC - Cereal Rye - NA
+2019-04-01 13:53:23 INFO::ADDED: CDA - Cereal Rye - NA
+2019-04-01 13:53:23 INFO::ADDED: CDA - Triticale - NA
+2019-04-01 13:53:23 INFO::ADDED: CDA - Unknown Vetch spp - NA
+2019-04-01 13:53:23 INFO::ADDED: CDA - Unknown Clover spp - NA
+2019-04-01 13:53:23 INFO::ADDED: CDB - Cereal Rye - NA
+2019-04-01 13:53:23 INFO::ADDED: CDB - Triticale - NA
+2019-04-01 13:53:23 INFO::ADDED: CDB - Unknown Vetch spp - NA
+2019-04-01 13:53:23 INFO::ADDED: CDB - Unknown Clover spp - NA
+2019-04-01 13:53:23 INFO::ADDED: GBO - Cereal Rye - 120
+2019-04-01 13:53:23 INFO::ADDED: KCF - Cereal Rye - 70
+2019-04-01 13:53:23 INFO::ADDED: KCW - Cereal Rye - 70
+2019-04-01 13:53:23 INFO::ADDED: SRA - Oats - NA
+2019-04-01 13:53:23 INFO::ADDED: SRA - Unknown Clover spp - NA
+2019-04-01 13:53:23 INFO::ADDED: SRA - Radish/Turnip - NA
+2019-04-01 13:53:23 INFO::ADDED: SRB - Oats - NA
+2019-04-01 13:53:23 INFO::ADDED: SRB - Unknown Clover spp - NA
+2019-04-01 13:53:23 INFO::ADDED: SRB - Radish/Turnip - NA
+2019-04-01 13:53:26 WARNING::: RAB - Radish - 3: cover crop specie was not properly defined
+2019-04-01 13:53:26 INFO::ADDED: LAB - Cereal Rye - 70
+2019-04-01 13:53:26 INFO::ADDED: LAC - Cereal Rye - 70
+2019-04-01 13:53:26 INFO::ADDED: NTL - Cereal Rye - NA
+2019-04-01 13:56:01 WARNING::: RAB - Radish - 3: cover crop specie was not properly defined
+2019-04-01 13:56:01 INFO::ADDED: RAB - Unknown Clover spp - 5
+2019-04-01 13:56:01 INFO::ADDED: RAB - Oats - 32
+2019-04-01 14:03:10 WARNING::: RAB - Radish - 3: cover crop specie was not properly defined
+2019-04-01 14:09:54 INFO::ADDED: RAB - Radish/Turnip - 3
+2019-04-01 14:24:02 INFO::DELETED: 296 - RAB - Radish/Turnip - 3
+2019-04-01 14:24:02 INFO::DELETED: 255 - ALR - Oats - NA
+2019-04-01 14:24:02 INFO::DELETED: 256 - ALR - Unknown Clover spp - NA
+2019-04-01 14:24:02 INFO::DELETED: 257 - ALR - Radish/Turnip - NA
+2019-04-01 14:24:02 INFO::DELETED: 258 - BRL - Annual Ryegrass - NA
+2019-04-01 14:24:02 INFO::DELETED: 259 - BWA - Triticale - NA
+2019-04-01 14:24:02 INFO::DELETED: 260 - BWA - Radish/Turnip - NA
+2019-04-01 14:24:02 INFO::DELETED: 261 - BWA - Oats - NA
+2019-04-01 14:24:02 INFO::DELETED: 262 - BWA - Unknown Clover spp - NA
+2019-04-01 14:24:02 INFO::DELETED: 263 - BWA - Cereal Rye - NA
+2019-04-01 14:24:02 INFO::DELETED: 264 - BWB - Triticale - NA
+2019-04-01 14:24:02 INFO::DELETED: 265 - BWB - Radish/Turnip - NA
+2019-04-01 14:24:02 INFO::DELETED: 266 - BWB - Oats - NA
+2019-04-01 14:24:02 INFO::DELETED: 267 - BWB - Unknown Clover spp - NA
+2019-04-01 14:24:02 INFO::DELETED: 268 - BWB - Cereal Rye - NA
+2019-04-01 14:24:02 INFO::DELETED: 269 - BWC - Triticale - NA
+2019-04-01 14:24:02 INFO::DELETED: 270 - BWC - Radish/Turnip - NA
+2019-04-01 14:24:02 INFO::DELETED: 271 - BWC - Oats - NA
+2019-04-01 14:24:02 INFO::DELETED: 272 - BWC - Unknown Clover spp - NA
+2019-04-01 14:24:02 INFO::DELETED: 273 - BWC - Cereal Rye - NA
+2019-04-01 14:24:02 INFO::DELETED: 274 - CDA - Cereal Rye - NA
+2019-04-01 14:24:02 INFO::DELETED: 275 - CDA - Triticale - NA
+2019-04-01 14:24:02 INFO::DELETED: 276 - CDA - Unknown Vetch spp - NA
+2019-04-01 14:24:02 INFO::DELETED: 277 - CDA - Unknown Clover spp - NA
+2019-04-01 14:24:02 INFO::DELETED: 278 - CDB - Cereal Rye - NA
+2019-04-01 14:24:02 INFO::DELETED: 279 - CDB - Triticale - NA
+2019-04-01 14:24:02 INFO::DELETED: 280 - CDB - Unknown Vetch spp - NA
+2019-04-01 14:24:02 INFO::DELETED: 281 - CDB - Unknown Clover spp - NA
+2019-04-01 14:24:02 INFO::DELETED: 282 - GBO - Cereal Rye - 120
+2019-04-01 14:24:02 INFO::DELETED: 283 - KCF - Cereal Rye - 70
+2019-04-01 14:24:02 INFO::DELETED: 284 - KCW - Cereal Rye - 70
+2019-04-01 14:24:02 INFO::DELETED: 285 - SRA - Oats - NA
+2019-04-01 14:24:02 INFO::DELETED: 286 - SRA - Unknown Clover spp - NA
+2019-04-01 14:24:02 INFO::DELETED: 287 - SRA - Radish/Turnip - NA
+2019-04-01 14:24:02 INFO::DELETED: 288 - SRB - Oats - NA
+2019-04-01 14:24:02 INFO::DELETED: 289 - SRB - Unknown Clover spp - NA
+2019-04-01 14:24:02 INFO::DELETED: 290 - SRB - Radish/Turnip - NA
+2019-04-01 14:24:02 INFO::DELETED: 291 - LAB - Cereal Rye - 70
+2019-04-01 14:24:02 INFO::DELETED: 292 - LAC - Cereal Rye - 70
+2019-04-01 14:24:02 INFO::DELETED: 293 - NTL - Cereal Rye - NA
+2019-04-01 14:24:02 INFO::DELETED: 294 - RAB - Unknown Clover spp - 5
+2019-04-01 14:24:02 INFO::DELETED: 295 - RAB - Oats - 32
+2019-04-01 14:24:04 INFO::Table: cc_mixture
+2019-04-01 14:24:04 INFO::Time end: 2019-04-01 14:24:04
+2019-04-01 14:24:35 INFO::Table: producer_ids
+2019-04-01 14:24:35 INFO::Time ini: 2019-04-01 14:24:35
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC010 - Cooley - NA -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC010 - Cooley - [null] -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - NA -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - [null] -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC013 - Davis - NA -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC013 - Davis - [null] -
+2019-04-01 14:24:42 INFO::MODIFIED: OLD:  2017NC014 - Howard - NA -
+2019-04-01 14:24:42 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2018NC003 - Lewis - NA -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2018NC003 - Lewis - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - NA -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2018NC005 - Kinston - NA -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2018NC005 - Kinston - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC014 - Howard - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:24:51 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:24:51 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019NC003 - Howard - NA -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019NC003 - Howard - [null] -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:24:58 INFO::MODIFIED: OLD:  2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 14:24:58 INFO::MODIFIED: NEW:  2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 14:24:58 INFO::Table: producer_ids
+2019-04-01 14:24:58 INFO::Time end: 2019-04-01 14:24:58
+2019-04-01 14:24:58 INFO::Table: site_information
+2019-04-01 14:24:58 INFO::Time ini: 2019-04-01 14:24:58
+2019-04-01 14:25:18 INFO::Table: site_information
+2019-04-01 14:25:18 INFO::Time end: 2019-04-01 14:25:18
+2019-04-01 14:25:18 INFO::Table: cc_mixture
+2019-04-01 14:25:18 INFO::Time ini: 2019-04-01 14:25:18
+2019-04-01 14:25:30 INFO::ADDED: ALR - Oats - NA
+2019-04-01 14:25:30 INFO::ADDED: ALR - Unknown Clover spp - NA
+2019-04-01 14:25:30 INFO::ADDED: ALR - Radish/Turnip - NA
+2019-04-01 14:25:30 INFO::ADDED: BRL - Annual Ryegrass - NA
+2019-04-01 14:25:30 INFO::ADDED: BWA - Triticale - NA
+2019-04-01 14:25:30 INFO::ADDED: BWA - Radish/Turnip - NA
+2019-04-01 14:25:30 INFO::ADDED: BWA - Oats - NA
+2019-04-01 14:25:30 INFO::ADDED: BWA - Unknown Clover spp - NA
+2019-04-01 14:25:30 INFO::ADDED: BWA - Cereal Rye - NA
+2019-04-01 14:25:30 INFO::ADDED: BWB - Triticale - NA
+2019-04-01 14:25:30 INFO::ADDED: BWB - Radish/Turnip - NA
+2019-04-01 14:25:30 INFO::ADDED: BWB - Oats - NA
+2019-04-01 14:25:30 INFO::ADDED: BWB - Unknown Clover spp - NA
+2019-04-01 14:25:30 INFO::ADDED: BWB - Cereal Rye - NA
+2019-04-01 14:25:30 INFO::ADDED: BWC - Triticale - NA
+2019-04-01 14:25:30 INFO::ADDED: BWC - Radish/Turnip - NA
+2019-04-01 14:25:30 INFO::ADDED: BWC - Oats - NA
+2019-04-01 14:25:30 INFO::ADDED: BWC - Unknown Clover spp - NA
+2019-04-01 14:25:30 INFO::ADDED: BWC - Cereal Rye - NA
+2019-04-01 14:25:30 INFO::ADDED: CDA - Cereal Rye - NA
+2019-04-01 14:25:30 INFO::ADDED: CDA - Triticale - NA
+2019-04-01 14:25:30 INFO::ADDED: CDA - Unknown Vetch spp - NA
+2019-04-01 14:25:30 INFO::ADDED: CDA - Unknown Clover spp - NA
+2019-04-01 14:25:30 INFO::ADDED: CDB - Cereal Rye - NA
+2019-04-01 14:25:30 INFO::ADDED: CDB - Triticale - NA
+2019-04-01 14:25:30 INFO::ADDED: CDB - Unknown Vetch spp - NA
+2019-04-01 14:25:30 INFO::ADDED: CDB - Unknown Clover spp - NA
+2019-04-01 14:25:30 INFO::ADDED: GBO - Cereal Rye - 120
+2019-04-01 14:25:30 INFO::ADDED: KCF - Cereal Rye - 70
+2019-04-01 14:25:30 INFO::ADDED: KCW - Cereal Rye - 70
+2019-04-01 14:25:30 INFO::ADDED: SRA - Oats - NA
+2019-04-01 14:25:30 INFO::ADDED: SRA - Unknown Clover spp - NA
+2019-04-01 14:25:30 INFO::ADDED: SRA - Radish/Turnip - NA
+2019-04-01 14:25:30 INFO::ADDED: SRB - Oats - NA
+2019-04-01 14:25:30 INFO::ADDED: SRB - Unknown Clover spp - NA
+2019-04-01 14:25:30 INFO::ADDED: SRB - Radish/Turnip - NA
+2019-04-01 14:25:33 INFO::ADDED: LAB - Cereal Rye - 70
+2019-04-01 14:25:33 INFO::ADDED: LAC - Cereal Rye - 70
+2019-04-01 14:25:33 INFO::ADDED: NTL - Cereal Rye - NA
+2019-04-01 14:25:33 INFO::ADDED: RAB - Unknown Clover spp - 5
+2019-04-01 14:25:33 INFO::ADDED: RAB - Oats - 32
+2019-04-01 14:25:33 INFO::ADDED: RAB - Radish/Turnip - 3
+2019-04-01 14:25:33 INFO::Table: cc_mixture
+2019-04-01 14:25:33 INFO::Time end: 2019-04-01 14:25:33
+2019-04-01 14:27:01 INFO::Table: producer_ids
+2019-04-01 14:27:01 INFO::Time ini: 2019-04-01 14:27:01
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC010 - Cooley - NA -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC010 - Cooley - [null] -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - NA -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC011 - Hendrix - [null] -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC011 - Hendrix - [null] -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC013 - Davis - NA -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC013 - Davis - [null] -
+2019-04-01 14:27:06 INFO::MODIFIED: OLD:  2017NC014 - Howard - NA -
+2019-04-01 14:27:06 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC009 - Locklear - adrian.locklear@yahoo.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC001 - Ragan - zrtaylor@ncsu.edu -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2018NC001 - Broadwell - rbroadwell26@hotmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC004 - Coleman - scfarmer01@gmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2018NC003 - Lewis - NA -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2018NC003 - Lewis - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2018NC003 - Lewis - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - NA -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2018NC005 - Kinston - NA -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2018NC005 - Kinston - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2018NC005 - Kinston - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC014 - Howard - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC014 - Howard - [null] -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC012 - Hendrick - jrhgrainfarmsllc@gmail.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:27:14 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:27:14 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019NC003 - Howard - NA -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019NC003 - Howard - [null] -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2017NC002 - Page - pagebuilders@charter.net -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019NC001 - Caswell - roy.maitland@ncagr.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019NC002 - White - asrgrainco@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2018NC004 - Tyndall - [null] -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2018NC004 - Tyndall - [null] -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2017NC005 - Furr - furrc1958@aol.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019NC004 - Lowder - nathan.lowder@nc.usda.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019GA001 - Storey - gainesstory@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019GA002 - Sandeford - jacobsandeford@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019GA003 - Iron Horse Farm - gassett@uga.edu -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019AL001 - Grimes - mark_grimes@hma.honda.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019AL002 - Johnson - mqj9261@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019AL003 - Kirkland - tkirklandfarm@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019AL004 - Haddock - haddockfarms@comcast.net -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019AL005 - Martin - martinfarm@bellsouth.net -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019AL006 - Lazenby - mitch@lazenbyfarms.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019AL007 - Miller - jimmybmiller@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019VA001 - Reiter - mreiter@vt.edu -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019VA002 - Waring - robert.waring@dcr.virginia.gov -
+2019-04-01 14:27:20 INFO::MODIFIED: OLD:  2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 14:27:20 INFO::MODIFIED: NEW:  2019VA003 - Spiers - doublebranchfarms@gmail.com -
+2019-04-01 14:27:20 INFO::Table: producer_ids
+2019-04-01 14:27:20 INFO::Time end: 2019-04-01 14:27:20
+2019-04-01 14:27:20 INFO::Table: site_information
+2019-04-01 14:27:20 INFO::Time ini: 2019-04-01 14:27:20
+2019-04-01 14:27:39 INFO::Table: site_information
+2019-04-01 14:27:39 INFO::Time end: 2019-04-01 14:27:39
+2019-04-01 14:27:39 INFO::Table: cc_mixture
+2019-04-01 14:27:39 INFO::Time ini: 2019-04-01 14:27:39
+2019-04-01 14:27:52 INFO::Table: cc_mixture
+2019-04-01 14:27:52 INFO::Time end: 2019-04-01 14:27:52
+2019-04-01 15:10:34 INFO::Table: applied_chemicals
+2019-04-01 15:10:35 INFO::Time ini: 2019-04-01 15:10:35
+2019-04-01 15:22:20 WARNING::RHS - Herbicide - Atrazine - Paraquat/Gramoxone - Metolachlor/Bicep/Dual/etc.: chemical name was not properly defined
+2019-04-01 15:24:52 WARNING::RHS - Herbicide - Atrazine - Paraquat/Gramoxone - Metolachlor/Bicep/Dual/etc.: chemical name was not properly defined
+2019-04-01 15:27:53 INFO::ADDED: HFS - Glyphosate/Roundup
+2019-04-01 15:27:53 INFO::ADDED: IHS - Glyphosate/Roundup
+2019-04-01 15:27:53 INFO::ADDED: RHS - Atrazine

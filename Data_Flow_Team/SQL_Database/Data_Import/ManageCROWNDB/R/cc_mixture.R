@@ -10,13 +10,19 @@ ImportCCMixture <- function(){ # begin function to import cc_mixture
   con <- ConnectToDB() # connect to postgresql database
   on.exit(dbDisconnect(con)) # on exit, close connection
 
+  # ----- Create file to store all cover crop mixtures present in the FieldManagement sheets -----
+
+  mixture.list <- data.frame(codes=character(), specie=character(), stringsAsFactors = F)
+
   # ----- Import data from Google Spreadsheet -----
 
   # import data from google sheet
   keys <- c("1Az_8qAfpjVta9vXZFhr3YTsxSsLGHQmGTsPU2Qm27Pg",# GA2017
             "1O3lqSHNw_Q4PHLYKZ86vW3AxkZGD1u-OFMKV_cz4xL4", # NC2017
+            # "1-LZU9nkTZNvYGqxHx3Gis37vRrRM_ZOBYPNkBcEqKi0", # MD2017
             "1DXVi4MaEvZ_UbNu-pcT5skeb_4GfMCqS4cNkb494-OE",  # GA2018
             "1j4kLc9e0P_Z5gGrJVtMVatJ7m2GfjrK6cFDYZ___CeM", # NC2018
+            # "1R9KMVoGzr_62_0aOp9zn8JGi160OdRhpklzF2fnEPi8", # MD2018
             "1YjaHe8eVsdV0TV6tadF3KSgcylfjDHeduUHRE1-uN3s") # 2019
 
   for(key in keys){ # begin iteration over google sheets
@@ -66,6 +72,11 @@ ImportCCMixture <- function(){ # begin function to import cc_mixture
     # remove all observations where specie is NA or [null] and order data
     sheet2 <- sheet2[is.na(sheet2$specie) == F & sheet2$specie != '[null]',]
     sheet2 <- sheet2[order(sheet2$code),]
+
+    # add mixture to list
+    mixture.list <- rbind(mixture.list, sheet2[,1:2])
+
+
 
     # ----- Complete Database -----
 
@@ -119,6 +130,23 @@ ImportCCMixture <- function(){ # begin function to import cc_mixture
   # nullify NAs
   nullif <- "UPDATE cc_mixture SET rate =NULLIF(rate, '0')"
   dbGetQuery(con, nullif)
+
+  # ----- Delete mixtures  which are not used anymore -----
+
+  mixture.db <- data.frame(dbGetQuery(con, "SELECT * FROM cc_mixture")) # select all producer_ids existing in DB
+  colnames(mixture.list) <- colnames(mixture.db)[2:3]
+
+  # select data to delete
+  mixture.db <- mixture.db[(mixture.db$code %in% mixture.list$code & mixture.db$cc_specie %in% mixture.list$cc_specie) == F,]
+
+  # delete data from database
+  if(NROW(mixture.db)>0){
+    for(obs in 1:NROW(mixture.db)){
+      delete <- paste("DELETE FROM cc_mixture WHERE code = '", mixture.db$code[obs], "'", sep="")
+      dbGetQuery(con, delete)
+      loginfo(paste("DELETED:",paste(mixture.db[obs,], collapse = ' - ')), logger = "") # complete log file
+    }}
+
 
   loginfo("Table: cc_mixture", logger = "")
   loginfo(paste("Time end:", Sys.time()), logger="")

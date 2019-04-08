@@ -1,0 +1,90 @@
+2019-03-21 09:11:42 INFO::Table: producer_ids
+2019-03-21 09:11:43 INFO::Time ini: 2019-03-21 09:11:43
+2019-03-21 09:27:32 INFO::DELETED: 2017NC008
+2019-03-21 09:28:08 INFO::DELETED: c("2017GA003", "2017NC001", "2017NC004", "2017NC005", "2017NC006", "2017NC009", "2017NC010", "2017NC011", "2017NC012", "2017NC013", "2017NC014", "2018GA001", "2018NC001", "2018NC002", "2018NC003", "2018NC004", "2018NC005", "2017NC002", "2019NC003", "2019NC001", "2019NC002", "2019NC004", "2019GA001", "2019GA002", "2019GA003", "2019AL001", "2019AL002", "2019AL003", "2019AL004", "2019AL005", "2019AL006", "2019AL007", "2017NC007", "2017NC003", "2017NC008") - c("Hedrick", "Ragan", "Coleman", "Furr", "Logan", "Locklear", "Cooley", "Hendrix", "Hendrick", "Davis", "Howard", "Nunn", "Broadwell", "Goldsboro", "Lewis", "Tyndell", "Kinston", "Page", "Howard", "Caswell", "White", "Lowder", "Storey", "Sandeford", "Iron Horse Farm", "Grimes", "Johnson", "Kirkland", "Haddock", "Martin", "Lazenby", "Meyer", "Shooter", "Knowles", "Mc-Girt") - c(NA, "zrtaylor@ncsu.edu", "scfarmer01@gmail.com", "furrc1958@aol.com", "watson.logan@rocketmail.com", "adrian.locklear@yahoo.com", NA, NA, "jrhgrainfarmsllc@gmail.com", NA, NA, NA, "rbroadwell26@hotmail.com", NA, NA, NA, NA, "pagebuilders@charter.net", NA, "roy.maitland@ncagr.gov", NA, "nathan.lowder@nc.usda.gov", "gainesstory@gmail.com", "jacobsandeford@gmail.com", "gassett@uga.edu", "mark_grimes@hma.honda.com", "mqj9261@gmail.com", "tkirklandfarm@gmail.com", "haddockfarms@comcast.net", "martinfarm@bellsouth.net", 
+"mitch@lazenbyfarms.com", "bradm@agric-afc.com", "patshooter1@yahoo.com", "matthewknowles1995@gmail.com", "theMcGirts@rocketmail.com") - c(NA, "9197707441", "8438417373", "7047918830", NA, "9107346209", "9103182630", "9103089800", "8035304315", "8286990855", "9103893425", NA, "9194227638", NA, "9102891658", "9109904504", "9192220877", "9102841511", "9102891658", "9192220877", NA, "2024804895", "7065511382", "7065512333", "7707154285", "2564841169", "3345508619", "3347266594", "2563664336", "2565662281", "3347032126", "2565659072", "9107401481", "9103858667", "9107340088")
+2019-03-21 09:28:13 INFO::DELETED: 2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:29:11 INFO::Table: producer_ids
+2019-03-21 09:29:11 INFO::Time ini: 2019-03-21 09:29:11
+2019-03-21 09:29:20 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-21 09:29:20 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-21 09:29:20 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-21 09:29:20 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-21 09:29:20 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:29:20 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-21 09:29:26 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-21 09:29:26 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:29:27 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-21 09:29:27 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-21 09:29:32 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-21 09:29:32 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-21 09:29:32 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:29:32 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-21 09:29:32 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-21 09:29:32 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:29:32 INFO::DELETED: NA - NA - NA - NA
+2019-03-21 09:29:32 INFO::DELETED: character(0) - character(0) - character(0) - character(0)
+2019-03-21 09:29:32 INFO::Table: producer_ids
+2019-03-21 09:29:32 INFO::Time end: 2019-03-21 09:29:32
+2019-03-21 09:32:42 INFO::Table: producer_ids
+2019-03-21 09:32:42 INFO::Time ini: 2019-03-21 09:32:42
+2019-03-21 09:32:47 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-21 09:32:47 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-21 09:32:47 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-21 09:32:47 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-21 09:32:47 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:32:47 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-21 09:32:53 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-21 09:32:53 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:32:53 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-21 09:32:53 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-21 09:32:56 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-21 09:32:57 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-21 09:32:57 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:32:57 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-21 09:32:57 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-21 09:32:57 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:32:57 INFO::DELETED: NA - NA - NA - NA
+2019-03-21 09:32:57 INFO::DELETED: character(0) - character(0) - character(0) - character(0)
+2019-03-21 09:32:57 INFO::Table: producer_ids
+2019-03-21 09:32:57 INFO::Time end: 2019-03-21 09:32:57
+2019-03-21 09:34:04 INFO::Table: producer_ids
+2019-03-21 09:34:04 INFO::Time ini: 2019-03-21 09:34:04
+2019-03-21 09:34:15 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-21 09:34:15 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-21 09:34:15 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-21 09:34:15 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-21 09:34:15 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:34:15 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-21 09:34:21 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-21 09:34:21 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:34:21 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-21 09:34:21 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-21 09:34:24 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-21 09:34:24 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-21 09:34:24 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:34:24 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-21 09:34:24 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-21 09:34:24 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:35:40 INFO::Table: producer_ids
+2019-03-21 09:35:41 INFO::Time end: 2019-03-21 09:35:41
+2019-03-21 09:35:48 INFO::Table: producer_ids
+2019-03-21 09:35:48 INFO::Time ini: 2019-03-21 09:35:48
+2019-03-21 09:35:55 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-21 09:35:55 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-21 09:35:55 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-21 09:35:55 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-21 09:35:55 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:35:55 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-21 09:36:01 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - themcgirts@rocketmail.com - 9107340088
+2019-03-21 09:36:01 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:36:01 INFO::MODIFIED: OLD:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107407481
+2019-03-21 09:36:01 INFO::MODIFIED: NEW:  2017NC007 - Shooter - patshooter1@yahoo.com - 9107401481
+2019-03-21 09:36:05 INFO::MODIFIED: OLD:  2017NC003 - Knowles - matthewknowles1985@gmail.com - 9103858667
+2019-03-21 09:36:05 INFO::MODIFIED: NEW:  2017NC003 - Knowles - matthewknowles1995@gmail.com - 9103858667
+2019-03-21 09:36:05 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:36:05 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-21 09:36:05 INFO::MODIFIED: OLD:  2017NC008 - Mc-Girt - theMcGirt@rocketmail.com - 9107340088
+2019-03-21 09:36:05 INFO::MODIFIED: NEW:  2017NC008 - Mc-Girt - theMcGirts@rocketmail.com - 9107340088
+2019-03-21 09:36:05 INFO::Table: producer_ids
+2019-03-21 09:36:05 INFO::Time end: 2019-03-21 09:36:05
