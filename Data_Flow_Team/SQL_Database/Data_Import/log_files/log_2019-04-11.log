@@ -1,0 +1,124 @@
+2019-04-11 15:55:41 INFO::Table: yield
+2019-04-11 15:55:41 INFO::Time ini: 2019-04-11 15:55:41
+2019-04-11 15:56:20 INFO::Table: farm_history
+2019-04-11 15:56:20 INFO::Time end: 2019-04-11 15:56:20
+2019-04-11 15:56:39 INFO::Table: yield
+2019-04-11 15:56:39 INFO::Time ini: 2019-04-11 15:56:39
+2019-04-11 15:57:06 WARNING::HFEB1R1 - 2.5 - 7.94 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEB - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEB1R2 - 2.5 - 7.45 - 11.8 - 11.8 - NA - NA - NA - NA - 18 - FEB - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEB2R1 - 2.5 - 8.47 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEB - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEB2R2 - 2.5 - 6.42 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEB - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEB3R1 - 2.5 - 6.17 - 11.8 - 11.8 - NA - NA - NA - NA - 17 - FEB - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEB3R2 - 2.5 - 6.55 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEB - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEC1R1 - 2.5 - 6.75 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEC - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEC1R2 - 2.5 - 6.84 - 11.8 - 11.8 - NA - NA - NA - NA - 18 - FEC - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEC2R1 - 2.5 - 7.52 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEC - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEC2R2 - 2.5 - 7.03 - 11.8 - 11.8 - NA - NA - NA - NA - 17 - FEC - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEC3R1 - 2.5 - 6.28 - 11.8 - 11.8 - NA - NA - NA - NA - 17 - FEC - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::HFEC3R2 - 2.5 - 7.01 - 11.8 - 11.8 - NA - NA - NA - NA - 15 - FEC - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEB1R1 - 2.5 - 6.35 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEB - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEB1R2 - 2.5 - 7.54 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEB - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEB2R1 - 2.5 - 5.4 - 12.4 - 12.4 - NA - NA - NA - NA - 17 - HEB - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEB2R2 - 2.5 - 4.17 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEB - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEB3R1 - 2.5 - 6.02 - 12.4 - 12.4 - NA - NA - NA - NA - 19 - HEB - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEB3R2 - 2.5 - 4.61 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEB - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEC1R1 - 2.5 - 6.31 - 12.4 - 12.4 - NA - NA - NA - NA - 19 - HEC - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEC1R2 - 2.5 - 7.25 - 12.4 - 12.4 - NA - NA - NA - NA - 20 - HEC - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEC2R1 - 2.5 - 5.89 - 12.4 - 12.4 - NA - NA - NA - NA - 20 - HEC - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEC2R2 - 2.5 - 5.4 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEC - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEC3R1 - 2.5 - 5.76 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEC - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::IHEC3R2 - 2.5 - 5.42 - 12.4 - 12.4 - NA - NA - NA - NA - 21 - HEC - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEB1R1 - 2.5 - 4.92 - 12.2 - 12.2 - NA - NA - NA - NA - 15 - NEB - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEB1R2 - 2.5 - 6.7 - 12.2 - 12.2 - NA - NA - NA - NA - 15 - NEB - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEB2R1 - 2.5 - 6.15 - 12.2 - 12.2 - NA - NA - NA - NA - 16 - NEB - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEB2R2 - 2.5 - 4.74 - 12.2 - 12.2 - NA - NA - NA - NA - 14 - NEB - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEB3R1 - 2.5 - 7.1 - 12.2 - 12.2 - NA - NA - NA - NA - 16 - NEB - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEB3R2 - 2.5 - 7.41 - 12.2 - 12.2 - NA - NA - NA - NA - 16 - NEB - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEC1R1 - 2.5 - 6.62 - 12.2 - 12.2 - NA - NA - NA - NA - 16 - NEC - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEC1R2 - 2.5 - 7.45 - 12.2 - 12.2 - NA - NA - NA - NA - 17 - NEC - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEC2R1 - 2.5 - 6.64 - 12.2 - 12.2 - NA - NA - NA - NA - 17 - NEC - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEC2R2 - 2.5 - 6.86 - 12.2 - 12.2 - NA - NA - NA - NA - 17 - NEC - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEC3R1 - 2.5 - 7.34 - 12.2 - 12.2 - NA - NA - NA - NA - 17 - NEC - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:57:06 WARNING::LNEC3R2 - 2.5 - 6.28 - 12.2 - 12.2 - NA - NA - NA - NA - 17 - NEC - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:57:30 INFO::Table: yield
+2019-04-11 15:57:31 INFO::Time ini: 2019-04-11 15:57:31
+2019-04-11 15:58:06 WARNING::HFEB1R1 - 2.5 - 7.94 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEB - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEB1R2 - 2.5 - 7.45 - 11.8 - 11.8 - NA - NA - NA - NA - 18 - FEB - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEB2R1 - 2.5 - 8.47 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEB - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEB2R2 - 2.5 - 6.42 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEB - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEB3R1 - 2.5 - 6.17 - 11.8 - 11.8 - NA - NA - NA - NA - 17 - FEB - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEB3R2 - 2.5 - 6.55 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEB - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEC1R1 - 2.5 - 6.75 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEC - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEC1R2 - 2.5 - 6.84 - 11.8 - 11.8 - NA - NA - NA - NA - 18 - FEC - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEC2R1 - 2.5 - 7.52 - 11.8 - 11.8 - NA - NA - NA - NA - 19 - FEC - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEC2R2 - 2.5 - 7.03 - 11.8 - 11.8 - NA - NA - NA - NA - 17 - FEC - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEC3R1 - 2.5 - 6.28 - 11.8 - 11.8 - NA - NA - NA - NA - 17 - FEC - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::HFEC3R2 - 2.5 - 7.01 - 11.8 - 11.8 - NA - NA - NA - NA - 15 - FEC - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEB1R1 - 2.5 - 6.35 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEB - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEB1R2 - 2.5 - 7.54 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEB - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEB2R1 - 2.5 - 5.4 - 12.4 - 12.4 - NA - NA - NA - NA - 17 - HEB - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEB2R2 - 2.5 - 4.17 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEB - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEB3R1 - 2.5 - 6.02 - 12.4 - 12.4 - NA - NA - NA - NA - 19 - HEB - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEB3R2 - 2.5 - 4.61 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEB - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEC1R1 - 2.5 - 6.31 - 12.4 - 12.4 - NA - NA - NA - NA - 19 - HEC - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEC1R2 - 2.5 - 7.25 - 12.4 - 12.4 - NA - NA - NA - NA - 20 - HEC - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEC2R1 - 2.5 - 5.89 - 12.4 - 12.4 - NA - NA - NA - NA - 20 - HEC - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEC2R2 - 2.5 - 5.4 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEC - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEC3R1 - 2.5 - 5.76 - 12.4 - 12.4 - NA - NA - NA - NA - 18 - HEC - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::IHEC3R2 - 2.5 - 5.42 - 12.4 - 12.4 - NA - NA - NA - NA - 21 - HEC - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEB1R1 - 2.5 - 4.92 - 12.2 - 12.2 - NA - NA - NA - NA - 15 - NEB - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEB1R2 - 2.5 - 6.7 - 12.2 - 12.2 - NA - NA - NA - NA - 15 - NEB - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEB2R1 - 2.5 - 6.15 - 12.2 - 12.2 - NA - NA - NA - NA - 16 - NEB - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEB2R2 - 2.5 - 4.74 - 12.2 - 12.2 - NA - NA - NA - NA - 14 - NEB - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEB3R1 - 2.5 - 7.1 - 12.2 - 12.2 - NA - NA - NA - NA - 16 - NEB - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEB3R2 - 2.5 - 7.41 - 12.2 - 12.2 - NA - NA - NA - NA - 16 - NEB - 3 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEC1R1 - 2.5 - 6.62 - 12.2 - 12.2 - NA - NA - NA - NA - 16 - NEC - 1 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEC1R2 - 2.5 - 7.45 - 12.2 - 12.2 - NA - NA - NA - NA - 17 - NEC - 1 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEC2R1 - 2.5 - 6.64 - 12.2 - 12.2 - NA - NA - NA - NA - 17 - NEC - 2 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEC2R2 - 2.5 - 6.86 - 12.2 - 12.2 - NA - NA - NA - NA - 17 - NEC - 2 - R - 2: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEC3R1 - 2.5 - 7.34 - 12.2 - 12.2 - NA - NA - NA - NA - 17 - NEC - 3 - R - 1: treatment was not properly defined
+2019-04-11 15:58:06 WARNING::LNEC3R2 - 2.5 - 6.28 - 12.2 - 12.2 - NA - NA - NA - NA - 17 - NEC - 3 - R - 2: treatment was not properly defined
+2019-04-11 16:01:28 INFO::Table: yield
+2019-04-11 16:01:28 INFO::Time ini: 2019-04-11 16:01:28
+2019-04-11 16:01:56 INFO::ADDED: HFE - B - 1 - R1 - 7.94 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 19
+2019-04-11 16:01:56 INFO::ADDED: HFE - B - 1 - R2 - 7.45 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 18
+2019-04-11 16:01:56 INFO::ADDED: HFE - B - 2 - R1 - 8.47 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 19
+2019-04-11 16:01:56 INFO::ADDED: HFE - B - 2 - R2 - 6.42 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 19
+2019-04-11 16:01:56 INFO::ADDED: HFE - B - 3 - R1 - 6.17 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 17
+2019-04-11 16:01:56 INFO::ADDED: HFE - B - 3 - R2 - 6.55 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 19
+2019-04-11 16:01:56 INFO::ADDED: HFE - C - 1 - R1 - 6.75 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 19
+2019-04-11 16:01:56 INFO::ADDED: HFE - C - 1 - R2 - 6.84 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 18
+2019-04-11 16:01:56 INFO::ADDED: HFE - C - 2 - R1 - 7.52 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 19
+2019-04-11 16:01:56 INFO::ADDED: HFE - C - 2 - R2 - 7.03 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 17
+2019-04-11 16:01:56 INFO::ADDED: HFE - C - 3 - R1 - 6.28 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 17
+2019-04-11 16:01:56 INFO::ADDED: HFE - C - 3 - R2 - 7.01 - 11.8 - 11.8 - NA - NA - NA - NA - 2.5 - 15
+2019-04-11 16:01:56 INFO::ADDED: IHE - B - 1 - R1 - 6.35 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 18
+2019-04-11 16:01:56 INFO::ADDED: IHE - B - 1 - R2 - 7.54 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 18
+2019-04-11 16:01:56 INFO::ADDED: IHE - B - 2 - R1 - 5.4 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 17
+2019-04-11 16:01:56 INFO::ADDED: IHE - B - 2 - R2 - 4.17 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 18
+2019-04-11 16:01:56 INFO::ADDED: IHE - B - 3 - R1 - 6.02 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 19
+2019-04-11 16:01:56 INFO::ADDED: IHE - B - 3 - R2 - 4.61 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 18
+2019-04-11 16:01:56 INFO::ADDED: IHE - C - 1 - R1 - 6.31 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 19
+2019-04-11 16:01:56 INFO::ADDED: IHE - C - 1 - R2 - 7.25 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 20
+2019-04-11 16:01:56 INFO::ADDED: IHE - C - 2 - R1 - 5.89 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 20
+2019-04-11 16:01:56 INFO::ADDED: IHE - C - 2 - R2 - 5.4 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 18
+2019-04-11 16:01:56 INFO::ADDED: IHE - C - 3 - R1 - 5.76 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 18
+2019-04-11 16:01:56 INFO::ADDED: IHE - C - 3 - R2 - 5.42 - 12.4 - 12.4 - NA - NA - NA - NA - 2.5 - 21
+2019-04-11 16:01:56 INFO::ADDED: LNE - B - 1 - R1 - 4.92 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 15
+2019-04-11 16:01:56 INFO::ADDED: LNE - B - 1 - R2 - 6.7 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 15
+2019-04-11 16:01:56 INFO::ADDED: LNE - B - 2 - R1 - 6.15 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 16
+2019-04-11 16:01:56 INFO::ADDED: LNE - B - 2 - R2 - 4.74 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 14
+2019-04-11 16:01:56 INFO::ADDED: LNE - B - 3 - R1 - 7.1 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 16
+2019-04-11 16:01:57 INFO::ADDED: LNE - B - 3 - R2 - 7.41 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 16
+2019-04-11 16:01:57 INFO::ADDED: LNE - C - 1 - R1 - 6.62 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 16
+2019-04-11 16:01:57 INFO::ADDED: LNE - C - 1 - R2 - 7.45 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 17
+2019-04-11 16:01:57 INFO::ADDED: LNE - C - 2 - R1 - 6.64 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 17
+2019-04-11 16:01:57 INFO::ADDED: LNE - C - 2 - R2 - 6.86 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 17
+2019-04-11 16:01:57 INFO::ADDED: LNE - C - 3 - R1 - 7.34 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 17
+2019-04-11 16:01:57 INFO::ADDED: LNE - C - 3 - R2 - 6.28 - 12.2 - 12.2 - NA - NA - NA - NA - 2.5 - 17
+2019-04-11 16:01:57 INFO::Table: farm_history
+2019-04-11 16:01:57 INFO::Time end: 2019-04-11 16:01:57
+2019-04-11 16:02:27 INFO::Table: yield
+2019-04-11 16:02:27 INFO::Time ini: 2019-04-11 16:02:27
+2019-04-11 16:02:49 INFO::Table: farm_history
+2019-04-11 16:02:49 INFO::Time end: 2019-04-11 16:02:49

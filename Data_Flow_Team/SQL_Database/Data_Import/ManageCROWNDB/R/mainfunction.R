@@ -51,7 +51,8 @@ MainFunction <- function(){ # begin MainFunction()
   # ImportSiteInfo()
   # ImportCCMixture()
   # ImportAppliedChemicals()
-  ImportFarmHistory()
+  # ImportFarmHistory()
+  ImportYield()
 
 
 

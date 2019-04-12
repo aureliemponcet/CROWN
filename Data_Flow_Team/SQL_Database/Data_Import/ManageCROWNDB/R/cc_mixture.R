@@ -80,7 +80,7 @@ ImportCCMixture <- function(){ # begin function to import cc_mixture
 
     # ----- Complete Database -----
 
-    # list all codes an species already in site_information in the database
+    # list all codes and species already in site_information in the database
     codes.sp <- as.data.frame(dbGetQuery(con, "SELECT * FROM cc_mixture"))
     if(NROW(codes.sp) == 0) {codes.sp <- data.frame(code =character(), cc_specie = character())} # if nothing in table set to 0
 
